@@ -1,24 +1,75 @@
 #! /bin/bash
-echo "************************************"
-echo testing fillseq
-rm -rf mydb/
-./main -b=fillseq | grep fraction
 
-echo "************************************"
-echo testing fillrand
-rm -rf mydb/
-./main -b=fillseq | grep fraction
+i=1
+end=100
+inc=5
+mask=0x1
+db_name="mydb"
 
-echo "************************************"
-echo testing readseq
-./main -b=readseq | grep fraction
+key_range[0]=100000
+key_range[1]=1000000
 
-echo "************************************"
-echo testing readrand
-./main -b=readrand | grep fraction
+ops[0]=1000000
+ops[1]=10000000
 
-echo "************************************"
-echo testing update
-./main -b=update | grep fraction
+echo '********************************'
+echo key_range = ${key_range[0]}. ops=${ops[0]}. multicore
+while [ $i -lt $end ]; do
+	rm -rf $db_name
+#	echo "value of write frequency is $i"
+#	taskset $mask ./main 1000000 $i | grep fraction
+	./main -b=purelyrandom $db_name ${ops[0]}  $i ${key_range[0]} | grep fraction
+	((i=i+$inc))
+done
+i=1
+echo '********************************'
+echo key_range = ${key_range[0]}. ops=${ops[1]}. multicore
+while [ $i -lt $end ]; do
+	rm -rf $db_name
+	#       echo "value of write frequency is $i"
+	#       taskset $mask ./main 1000000 $i | grep fraction
+	./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[0]} | grep fraction
+	((i=i+$inc))
+done
+i=1
+echo '********************************'
+echo key_range = ${key_range[1]}. ops=${ops[1]}. multicore
+while [ $i -lt $end ]; do
+	rm -rf $db_name
+	#       echo "value of write frequency is $i"
+	#       taskset $mask ./main 1000000 $i | grep fraction
+	./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[1]} | grep fraction
+	((i=i+$inc))
+done
 
-echo ALL tests done
+i=1
+
+echo '********************************'
+echo key_range = ${key_range[0]}. ops=${ops[0]}. singlecore
+while [ $i -lt $end ]; do
+	rm -rf $db_name
+	#       echo "value of write frequency is $i"
+	#       taskset $mask ./main 1000000 $i | grep fraction
+	taskset $mask ./main -b=purelyrandom $db_name ${ops[0]}  $i ${key_range[0]} | grep fraction
+	((i=i+$inc))
+done
+i=1
+echo '********************************'
+echo key_range = ${key_range[0]}. ops=${ops[1]}. singlecore
+while [ $i -lt $end ]; do
+	rm -rf $db_name
+	#       echo "value of write frequency is $i"
+	#       taskset $mask ./main 1000000 $i | grep fraction
+	taskset $mask ./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[0]} | grep fraction
+	((i=i+$inc))
+done
+i=1
+echo '********************************'
+echo key_range = ${key_range[1]}. ops=${ops[1]}. singlecore
+while [ $i -lt $end ]; do
+	rm -rf $db_name
+	#       echo "value of write frequency is $i"
+	#       taskset $mask ./main 1000000 $i | grep fraction
+	taskset $mask ./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[1]} | grep fraction
+	((i=i+$inc))
+done

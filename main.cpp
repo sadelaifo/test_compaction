@@ -13,7 +13,7 @@ extern std::chrono::nanoseconds n_yi;
 int max_entries = 1000000;
 int* arr = new int [max_entries];
 
-string db_name = "mydb";
+string db_name;
 
 string tests[] = {
 	"-b=fillseq",
@@ -42,7 +42,7 @@ void test_fillseq(leveldb::DB *db) {
 	string token;
 	for (int i = 0;  i < max_entries; i++) {
 		key = to_string(i);
-		token = key;
+		token = to_string((int) rand() % max_entries);
 		status = db->Put(leveldb::WriteOptions(), key, token);
 		if (!status.ok()) {
 			cerr << "[ERROR]" << status.ToString() << endl;
@@ -57,7 +57,7 @@ void test_fillrand(leveldb::DB *db) {
 	string token;
 	for (int i = 0; i < max_entries; i++) {
 		key = to_string(arr[i]);
-		token = key;
+		token = to_string((int) rand() % max_entries);
 		status = db->Put(leveldb::WriteOptions(), key, token);
 		if (!status.ok()) {
 			cerr << "[ERROR]" << status.ToString() << endl;
@@ -100,7 +100,7 @@ void test_update(leveldb::DB *db) {
 	string token;
 	for (int i = 0; i < max_entries; i++) {
 		key = to_string((int) rand() % max_entries);
-		token = to_string((int) rand() % max_entries);
+		token = to_string((int) rand());
 		status = db->Put(leveldb::WriteOptions(), key, token);
 		if (!status.ok()) {
 			cerr << "[ERROR]" << status.ToString() << endl;
@@ -109,10 +109,10 @@ void test_update(leveldb::DB *db) {
 	}
 }
 
-void test_purelyrandom(leveldb::DB *db, int max_tests, int write_frequency) {
+void test_purelyrandom(leveldb::DB *db, int max_tests, int write_frequency, int key_range) {
 	std::default_random_engine generator(time(NULL));
 	std::uniform_int_distribution<int> d(0,100);
-	std::uniform_int_distribution<long int> d1(0, max_tests / 100);
+	std::uniform_int_distribution<long int> d1(0, key_range);
 
 	std::string token;
 	std::string key;
@@ -168,13 +168,16 @@ int main(int argc, char* argv[])
 
 	std::chrono::nanoseconds n(0);
 	std::chrono::time_point<std::chrono::system_clock> start, end;
-	if (argc > 1) {
+
+	if (argc > 2) {
+		db_name = argv[2];
 		this_test = argv[1];
 		if (this_test == tests[0]) {
 			//			system(string("rm -rf ") + db_name + string("/"));
 			start = std::chrono::system_clock::now();
 			leveldb::Status status = leveldb::DB::Open(options, db_name, &db);
 			if (!status.ok()) {
+				delete arr;
 				return 1;
 			}
 			test_fillseq(db);
@@ -184,6 +187,7 @@ int main(int argc, char* argv[])
 			start = std::chrono::system_clock::now();
 			leveldb::Status status = leveldb::DB::Open(options, db_name, &db);
 			if (!status.ok()) {
+				delete arr;
 				return 1;
 			}
 			test_fillrand(db);
@@ -191,6 +195,7 @@ int main(int argc, char* argv[])
 			start = std::chrono::system_clock::now();
 			leveldb::Status status = leveldb::DB::Open(options, db_name, &db);
 			if (!status.ok()) {
+				delete arr;
 				return 1;
 			}
 			test_readseq(db);
@@ -199,6 +204,7 @@ int main(int argc, char* argv[])
 			start = std::chrono::system_clock::now();
 			leveldb::Status status = leveldb::DB::Open(options, db_name, &db);
 			if (!status.ok()) {
+				delete arr;
 				return 1;
 			}
 			test_readrand(db);
@@ -207,25 +213,30 @@ int main(int argc, char* argv[])
 			start = std::chrono::system_clock::now();
 			leveldb::Status status = leveldb::DB::Open(options, db_name, &db);
 			if (!status.ok()) {
+				delete arr;
 				return 1;
 			}
 			test_update(db);
 		} else if (this_test == tests[5]) {
-			if (argc != 4) {
+			if (argc != 6) {
 				cout << "ERROR, enter # of tests, write frequency (1-100)\n";
 
 			}
 
-			long int max_tests = atoi(argv[2]);
-			int write_frequency = atoi(argv[3]);
+			long int max_tests = atoi(argv[3]);
+			int write_frequency = atoi(argv[4]);
+			int key_range = atoi(argv[5]);
 			leveldb::Status status = leveldb::DB::Open(options, db_name, &db);
-			test_purelyrandom(db, max_tests, write_frequency);
+			start = std::chrono::system_clock::now();
+			test_purelyrandom(db, max_tests, write_frequency, key_range);
 		} else {
 			print_menu();
+			delete arr;
 			return 1;
 		}
 	} else {
 		print_menu();
+		delete arr;
 		return 1;
 	}
 	end = std::chrono::system_clock::now();
@@ -238,6 +249,7 @@ int main(int argc, char* argv[])
 	cout << "Compaction fraction is " << (double) n_yi.count() / (double) n.count() * 100 << "%" << endl;
 
 	delete db;
+	delete arr;
 
 	return 0;
 }
