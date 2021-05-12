@@ -11,7 +11,7 @@ using namespace std;
 extern std::chrono::nanoseconds n_yi;
 
 int max_entries = 1000000;
-int* arr = new int [max_entries];
+int* arr;
 
 string db_name;
 
@@ -168,10 +168,15 @@ int main(int argc, char* argv[])
 
 	std::chrono::nanoseconds n(0);
 	std::chrono::time_point<std::chrono::system_clock> start, end;
+	
+	arr = new int [max_entries];
 
 	if (argc > 2) {
 		db_name = argv[2];
 		this_test = argv[1];
+
+//		arr = new int [max_entries];
+
 		if (this_test == tests[0]) {
 			//			system(string("rm -rf ") + db_name + string("/"));
 			start = std::chrono::system_clock::now();
