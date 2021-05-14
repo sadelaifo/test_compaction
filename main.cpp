@@ -9,7 +9,7 @@
 
 using namespace std;
 extern std::chrono::nanoseconds n_yi;
-
+extern std::chrono::nanoseconds n_yi_wait_time;
 int max_entries = 1000000;
 int* arr;
 
@@ -250,8 +250,10 @@ int main(int argc, char* argv[])
 	n += std::chrono::duration_cast<std::chrono::nanoseconds>(duration);
 	cout << "Total program time is " << n.count() << endl;
 	cout << "Total compaction time is xxxxxx " << n_yi.count() << endl;
-
+	cout << "Total Wait Time is " << n_yi_wait_time.count() << endl;
 	cout << "Compaction fraction is " << (double) n_yi.count() / (double) n.count() * 100 << "%" << endl;
+
+	cout << "Compaction fracwithout wait_time is " << (double) n_yi.count() / ((double) n.count() - (double) n_yi_wait_time.count()) * 100 << "%" << endl;
 
 	delete db;
 	delete arr;
