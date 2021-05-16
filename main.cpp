@@ -11,6 +11,7 @@ using namespace std;
 extern std::chrono::nanoseconds n_yi;
 extern std::chrono::nanoseconds n_yi_wait_time;
 int max_entries = 1000000;
+int max_update_ops = 1000000000;
 int* arr;
 
 string db_name;
@@ -98,7 +99,7 @@ void test_update(leveldb::DB *db) {
 	leveldb::Status status;
 	string key;
 	string token;
-	for (int i = 0; i < max_entries; i++) {
+	for (int i = 0; i < max_update_ops; i++) {
 		key = to_string((int) rand() % max_entries);
 		token = to_string((int) rand());
 		status = db->Put(leveldb::WriteOptions(), key, token);
@@ -171,7 +172,7 @@ int main(int argc, char* argv[])
 	
 	arr = new int [max_entries];
 
-	if (argc > 2) {
+	if (argc > 1) {
 		db_name = argv[2];
 		this_test = argv[1];
 

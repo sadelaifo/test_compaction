@@ -5,7 +5,7 @@ end=100
 inc=5
 mask=0x1
 db_name="mydb"
-fraction=without
+grep_cmd=""
 
 
 key_range[0]=100000
@@ -20,7 +20,7 @@ while [ $i -lt $end ]; do
 	rm -rf $db_name
 #	echo "value of write frequency is $i"
 #	taskset $mask ./main 1000000 $i | grep fraction
-	./main -b=purelyrandom $db_name ${ops[0]}  $i ${key_range[0]} | grep $fraction
+	./main -b=purelyrandom $db_name ${ops[0]}  $i ${key_range[0]} $grep_cmd
 	((i=i+$inc))
 done
 i=1
@@ -30,7 +30,7 @@ while [ $i -lt $end ]; do
 	rm -rf $db_name
 	#       echo "value of write frequency is $i"
 	#       taskset $mask ./main 1000000 $i | grep fraction
-	./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[0]} | grep $fraction
+	./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[0]} $grep_cmd
 	((i=i+$inc))
 done
 i=1
@@ -40,7 +40,7 @@ while [ $i -lt $end ]; do
 	rm -rf $db_name
 	#       echo "value of write frequency is $i"
 	#       taskset $mask ./main 1000000 $i | grep $fraction
-	./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[1]} | grep $fraction
+	./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[1]} $grep_cmd
 	((i=i+$inc))
 done
 
@@ -52,7 +52,7 @@ while [ $i -lt $end ]; do
 	rm -rf $db_name
 	#       echo "value of write frequency is $i"
 	#       taskset $mask ./main 1000000 $i | grep fraction
-	taskset $mask ./main -b=purelyrandom $db_name ${ops[0]}  $i ${key_range[0]} | grep $fraction
+	taskset $mask ./main -b=purelyrandom $db_name ${ops[0]}  $i ${key_range[0]} $grep_cmd
 	((i=i+$inc))
 done
 i=1
@@ -62,7 +62,7 @@ while [ $i -lt $end ]; do
 	rm -rf $db_name
 	#       echo "value of write frequency is $i"
 	#       taskset $mask ./main 1000000 $i | grep fraction
-	taskset $mask ./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[0]} | grep $fraction
+	taskset $mask ./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[0]} $grep_cmd
 	((i=i+$inc))
 done
 i=1
@@ -72,6 +72,6 @@ while [ $i -lt $end ]; do
 	rm -rf $db_name
 	#       echo "value of write frequency is $i"
 	#       taskset $mask ./main 1000000 $i | grep fraction
-	taskset $mask ./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[1]} | grep $fraction
+	taskset $mask ./main -b=purelyrandom $db_name ${ops[1]}  $i ${key_range[1]} $grep_cmd
 	((i=i+$inc))
 done

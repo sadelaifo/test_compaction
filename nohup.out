@@ -1,132 +1,2047 @@
 ********************************
 key_range = 100000. ops=1000000. multicore
+Total program time is 2029426273
+Total compaction time is xxxxxx 0
+Total Wait Time is 0
+Compaction fraction is 0%
 Compaction fracwithout wait_time is 0%
+Total program time is 2903925168
+Total compaction time is xxxxxx 0
+Total Wait Time is 0
+Compaction fraction is 0%
 Compaction fracwithout wait_time is 0%
+Total program time is 3816286006
+Total compaction time is xxxxxx 0
+Total Wait Time is 0
+Compaction fraction is 0%
 Compaction fracwithout wait_time is 0%
+Total program time is 4726496209
+Total compaction time is xxxxxx 0
+Total Wait Time is 0
+Compaction fraction is 0%
 Compaction fracwithout wait_time is 0%
-Compaction fracwithout wait_time is 2.15175%
-Compaction fracwithout wait_time is 1.87901%
-Compaction fracwithout wait_time is 3.6726%
-Compaction fracwithout wait_time is 3.23618%
-Compaction fracwithout wait_time is 4.79484%
-Compaction fracwithout wait_time is 4.61479%
-Compaction fracwithout wait_time is 5.93234%
-Compaction fracwithout wait_time is 5.55404%
-Compaction fracwithout wait_time is 7.33544%
-Compaction fracwithout wait_time is 6.61861%
-Compaction fracwithout wait_time is 7.66663%
-Compaction fracwithout wait_time is 7.37678%
-Compaction fracwithout wait_time is 8.69573%
-Compaction fracwithout wait_time is 8.55107%
-Compaction fracwithout wait_time is 9.17944%
-Compaction fracwithout wait_time is 9.25085%
+Compaction completed. Total compaction time is 111981014
+Total program time is 5330753197
+Total compaction time is xxxxxx 111981014
+Total Wait Time is 0
+Compaction fraction is 2.10066%
+Compaction fracwithout wait_time is 2.10066%
+Compaction completed. Total compaction time is 118621171
+Total program time is 5819377553
+Total compaction time is xxxxxx 118621171
+Total Wait Time is 0
+Compaction fraction is 2.03838%
+Compaction fracwithout wait_time is 2.03838%
+Compaction completed. Total compaction time is 117017852
+Compaction completed. Total compaction time is 233538839
+Total program time is 6247093898
+Total compaction time is xxxxxx 233538839
+Total Wait Time is 0
+Compaction fraction is 3.73836%
+Compaction fracwithout wait_time is 3.73836%
+Compaction completed. Total compaction time is 118242201
+Compaction completed. Total compaction time is 238023854
+Total program time is 6623128263
+Total compaction time is xxxxxx 238023854
+Total Wait Time is 0
+Compaction fraction is 3.59383%
+Compaction fracwithout wait_time is 3.59383%
+Compaction completed. Total compaction time is 111740238
+Compaction completed. Total compaction time is 222246464
+Compaction completed. Total compaction time is 339134626
+Total program time is 7073503034
+Total compaction time is xxxxxx 339134626
+Total Wait Time is 0
+Compaction fraction is 4.79444%
+Compaction fracwithout wait_time is 4.79444%
+Compaction completed. Total compaction time is 109226652
+Compaction completed. Total compaction time is 218589324
+Compaction completed. Total compaction time is 332797718
+Total program time is 7444491616
+Total compaction time is xxxxxx 332797718
+Total Wait Time is 0
+Compaction fraction is 4.47039%
+Compaction fracwithout wait_time is 4.47039%
+Compaction completed. Total compaction time is 111326306
+Compaction completed. Total compaction time is 224570809
+Compaction completed. Total compaction time is 341623404
+Compaction completed. Total compaction time is 461650985
+Total program time is 7670343539
+Total compaction time is xxxxxx 461650985
+Total Wait Time is 0
+Compaction fraction is 6.01865%
+Compaction fracwithout wait_time is 6.01865%
+Compaction completed. Total compaction time is 117991981
+Compaction completed. Total compaction time is 235996442
+Compaction completed. Total compaction time is 358436821
+Compaction completed. Total compaction time is 483637163
+Total program time is 8043161094
+Total compaction time is xxxxxx 483637163
+Total Wait Time is 0
+Compaction fraction is 6.01302%
+Compaction fracwithout wait_time is 6.01302%
+Compaction completed. Total compaction time is 111358739
+Compaction completed. Total compaction time is 222446534
+Compaction completed. Total compaction time is 337625665
+Compaction completed. Total compaction time is 453406580
+Compaction completed. Total compaction time is 570443745
+Total program time is 8324270446
+Total compaction time is xxxxxx 570443745
+Total Wait Time is 0
+Compaction fraction is 6.85278%
+Compaction fracwithout wait_time is 6.85278%
+Compaction completed. Total compaction time is 110295385
+Compaction completed. Total compaction time is 221809200
+Compaction completed. Total compaction time is 334785687
+Compaction completed. Total compaction time is 449342247
+Compaction completed. Total compaction time is 567772400
+Total program time is 8573786855
+Total compaction time is xxxxxx 567772400
+Total Wait Time is 0
+Compaction fraction is 6.62219%
+Compaction fracwithout wait_time is 6.62219%
+Compaction completed. Total compaction time is 109823417
+Compaction completed. Total compaction time is 220373999
+Compaction completed. Total compaction time is 335933124
+Compaction completed. Total compaction time is 455230761
+Compaction completed. Total compaction time is 574831420
+Compaction completed. Total compaction time is 693297208
+Total program time is 8880619399
+Total compaction time is xxxxxx 693297208
+Total Wait Time is 0
+Compaction fraction is 7.80686%
+Compaction fracwithout wait_time is 7.80686%
+Compaction completed. Total compaction time is 115407861
+Compaction completed. Total compaction time is 229070426
+Compaction completed. Total compaction time is 346823666
+Compaction completed. Total compaction time is 467328389
+Compaction completed. Total compaction time is 587399027
+Compaction completed. Total compaction time is 707869709
+Total program time is 9022450544
+Total compaction time is xxxxxx 707869709
+Total Wait Time is 0
+Compaction fraction is 7.84565%
+Compaction fracwithout wait_time is 7.84565%
+Compaction completed. Total compaction time is 110921797
+Compaction completed. Total compaction time is 223471088
+Compaction completed. Total compaction time is 340382695
+Compaction completed. Total compaction time is 456209273
+Compaction completed. Total compaction time is 576472768
+Compaction completed. Total compaction time is 698068614
+Compaction completed. Total compaction time is 818857393
+Total program time is 9333175212
+Total compaction time is xxxxxx 818857393
+Total Wait Time is 0
+Compaction fraction is 8.77362%
+Compaction fracwithout wait_time is 8.77362%
+Compaction completed. Total compaction time is 114064740
+Compaction completed. Total compaction time is 232316735
+Compaction completed. Total compaction time is 354409002
+Compaction completed. Total compaction time is 476435788
+Compaction completed. Total compaction time is 602394148
+Compaction completed. Total compaction time is 729493796
+Compaction completed. Total compaction time is 856847806
+Total program time is 9587728027
+Total compaction time is xxxxxx 856847806
+Total Wait Time is 0
+Compaction fraction is 8.93692%
+Compaction fracwithout wait_time is 8.93692%
+Compaction completed. Total compaction time is 110114361
+Compaction completed. Total compaction time is 220731046
+Compaction completed. Total compaction time is 337111860
+Compaction completed. Total compaction time is 453868337
+Compaction completed. Total compaction time is 572035185
+Compaction completed. Total compaction time is 689250105
+Compaction completed. Total compaction time is 807525252
+Compaction completed. Total compaction time is 923067376
+Total program time is 9735563851
+Total compaction time is xxxxxx 923067376
+Total Wait Time is 0
+Compaction fraction is 9.4814%
+Compaction fracwithout wait_time is 9.4814%
+Compaction completed. Total compaction time is 107071491
+Compaction completed. Total compaction time is 213587997
+Compaction completed. Total compaction time is 334717446
+Compaction completed. Total compaction time is 462927155
+Compaction completed. Total compaction time is 579395543
+Compaction completed. Total compaction time is 698647795
+Compaction completed. Total compaction time is 823217832
+Compaction completed. Total compaction time is 953561797
+Total program time is 9937549861
+Total compaction time is xxxxxx 953561797
+Total Wait Time is 0
+Compaction fraction is 9.59554%
+Compaction fracwithout wait_time is 9.59554%
 ********************************
 key_range = 100000. ops=10000000. multicore
-Compaction fracwithout wait_time is 0.334078%
-Compaction fracwithout wait_time is 1.42789%
-Compaction fracwithout wait_time is 2.56676%
-Compaction fracwithout wait_time is 3.23023%
-Compaction fracwithout wait_time is 4.11617%
-Compaction fracwithout wait_time is 5.07569%
-Compaction fracwithout wait_time is 5.35911%
-Compaction fracwithout wait_time is 5.75806%
-Compaction fracwithout wait_time is 6.5107%
-Compaction fracwithout wait_time is 7.26245%
-Compaction fracwithout wait_time is 8.22726%
-Compaction fracwithout wait_time is 8.10944%
-Compaction fracwithout wait_time is 8.53172%
-Compaction fracwithout wait_time is 9.20557%
-Compaction fracwithout wait_time is 9.71968%
-Compaction fracwithout wait_time is 9.76412%
-Compaction fracwithout wait_time is 10.1116%
-Compaction fracwithout wait_time is 10.7306%
-Compaction fracwithout wait_time is 10.9953%
-Compaction fracwithout wait_time is 11.791%
+Compaction completed. Total compaction time is 116346669
+Total program time is 36672106631
+Total compaction time is xxxxxx 116346669
+Total Wait Time is 0
+Compaction fraction is 0.317262%
+Compaction fracwithout wait_time is 0.317262%
+Compaction completed. Total compaction time is 133429886
+Compaction completed. Total compaction time is 268801184
+Compaction completed. Total compaction time is 406012293
+Compaction completed. Total compaction time is 547109970
+Compaction completed. Total compaction time is 689600195
+Compaction completed. Total compaction time is 832127796
+Total program time is 49516849612
+Total compaction time is xxxxxx 832127796
+Total Wait Time is 0
+Compaction fraction is 1.68049%
+Compaction fracwithout wait_time is 1.68049%
+Compaction completed. Total compaction time is 113020938
+Compaction completed. Total compaction time is 226262156
+Compaction completed. Total compaction time is 345591221
+Compaction completed. Total compaction time is 470933733
+Compaction completed. Total compaction time is 594895292
+Compaction completed. Total compaction time is 719483754
+Compaction completed. Total compaction time is 844021894
+Compaction completed. Total compaction time is 967483723
+Compaction completed. Total compaction time is 1091187992
+Compaction completed. Total compaction time is 1215736566
+Compaction completed. Total compaction time is 1340897703
+Total program time is 53659269485
+Total compaction time is xxxxxx 1340897703
+Total Wait Time is 0
+Compaction fraction is 2.49891%
+Compaction fracwithout wait_time is 2.49891%
+Compaction completed. Total compaction time is 114735013
+Compaction completed. Total compaction time is 230330530
+Compaction completed. Total compaction time is 351270949
+Compaction completed. Total compaction time is 473506236
+Compaction completed. Total compaction time is 595175078
+Compaction completed. Total compaction time is 716645778
+Compaction completed. Total compaction time is 842109747
+Compaction completed. Total compaction time is 963928227
+Compaction completed. Total compaction time is 1087052995
+Compaction completed. Total compaction time is 1210107282
+Compaction completed. Total compaction time is 1333459609
+Compaction completed. Total compaction time is 1457448561
+Compaction completed. Total compaction time is 1581663894
+Compaction completed. Total compaction time is 1703564106
+Compaction completed. Total compaction time is 1829464769
+Compaction completed. Total compaction time is 1953686457
+Total program time is 58241674543
+Total compaction time is xxxxxx 1953686457
+Total Wait Time is 0
+Compaction fraction is 3.35445%
+Compaction fracwithout wait_time is 3.35445%
+Compaction completed. Total compaction time is 114422671
+Compaction completed. Total compaction time is 232507189
+Compaction completed. Total compaction time is 353416648
+Compaction completed. Total compaction time is 476614244
+Compaction completed. Total compaction time is 600819047
+Compaction completed. Total compaction time is 725471672
+Compaction completed. Total compaction time is 847818419
+Compaction completed. Total compaction time is 970676629
+Compaction completed. Total compaction time is 1094693507
+Compaction completed. Total compaction time is 1218208320
+Compaction completed. Total compaction time is 1335718106
+Compaction completed. Total compaction time is 1451145274
+Compaction completed. Total compaction time is 1567818611
+Compaction completed. Total compaction time is 1681555545
+Compaction completed. Total compaction time is 1798740765
+Compaction completed. Total compaction time is 1916190006
+Compaction completed. Total compaction time is 2031475450
+Compaction completed. Total compaction time is 2150424481
+Compaction completed. Total compaction time is 2265858564
+Compaction completed. Total compaction time is 2382582416
+Compaction completed. Total compaction time is 2498797583
+Total program time is 61453409776
+Total compaction time is xxxxxx 2498797583
+Total Wait Time is 0
+Compaction fraction is 4.06617%
+Compaction fracwithout wait_time is 4.06617%
+Compaction completed. Total compaction time is 118221961
+Compaction completed. Total compaction time is 238264875
+Compaction completed. Total compaction time is 362661562
+Compaction completed. Total compaction time is 488373818
+Compaction completed. Total compaction time is 618109124
+Compaction completed. Total compaction time is 748025130
+Compaction completed. Total compaction time is 878305858
+Compaction completed. Total compaction time is 1010028657
+Compaction completed. Total compaction time is 1137856006
+Compaction completed. Total compaction time is 1267202546
+Compaction completed. Total compaction time is 1396482204
+Compaction completed. Total compaction time is 1525433679
+Compaction completed. Total compaction time is 1655024638
+Compaction completed. Total compaction time is 1783521588
+Compaction completed. Total compaction time is 1913456048
+Compaction completed. Total compaction time is 2042796643
+Compaction completed. Total compaction time is 2173587368
+Compaction completed. Total compaction time is 2303008441
+Compaction completed. Total compaction time is 2433138099
+Compaction completed. Total compaction time is 2564259365
+Compaction completed. Total compaction time is 2693637857
+Compaction completed. Total compaction time is 2816346118
+Compaction completed. Total compaction time is 2940469729
+Compaction completed. Total compaction time is 3062561964
+Compaction completed. Total compaction time is 3183521910
+Compaction completed. Total compaction time is 3308337964
+Total program time is 65714130490
+Total compaction time is xxxxxx 3308337964
+Total Wait Time is 0
+Compaction fraction is 5.03444%
+Compaction fracwithout wait_time is 5.03444%
+Compaction completed. Total compaction time is 115618704
+Compaction completed. Total compaction time is 233855507
+Compaction completed. Total compaction time is 354498067
+Compaction completed. Total compaction time is 478061608
+Compaction completed. Total compaction time is 602930519
+Compaction completed. Total compaction time is 726905423
+Compaction completed. Total compaction time is 851983294
+Compaction completed. Total compaction time is 977430967
+Compaction completed. Total compaction time is 1100993225
+Compaction completed. Total compaction time is 1226627359
+Compaction completed. Total compaction time is 1352127211
+Compaction completed. Total compaction time is 1474827721
+Compaction completed. Total compaction time is 1598780660
+Compaction completed. Total compaction time is 1723205662
+Compaction completed. Total compaction time is 1848385869
+Compaction completed. Total compaction time is 1973241953
+Compaction completed. Total compaction time is 2098180158
+Compaction completed. Total compaction time is 2223109642
+Compaction completed. Total compaction time is 2347380781
+Compaction completed. Total compaction time is 2473210151
+Compaction completed. Total compaction time is 2600659051
+Compaction completed. Total compaction time is 2725706213
+Compaction completed. Total compaction time is 2850608394
+Compaction completed. Total compaction time is 2975848017
+Compaction completed. Total compaction time is 3094323769
+Compaction completed. Total compaction time is 3214325532
+Compaction completed. Total compaction time is 3333772790
+Compaction completed. Total compaction time is 3450930591
+Compaction completed. Total compaction time is 3569113639
+Compaction completed. Total compaction time is 3686645462
+Compaction completed. Total compaction time is 3805297513
+Total program time is 68954427253
+Total compaction time is xxxxxx 3805297513
+Total Wait Time is 0
+Compaction fraction is 5.51857%
+Compaction fracwithout wait_time is 5.51857%
+Compaction completed. Total compaction time is 108320074
+Compaction completed. Total compaction time is 217744936
+Compaction completed. Total compaction time is 333277683
+Compaction completed. Total compaction time is 451274627
+Compaction completed. Total compaction time is 568819348
+Compaction completed. Total compaction time is 686446568
+Compaction completed. Total compaction time is 805346257
+Compaction completed. Total compaction time is 925027111
+Compaction completed. Total compaction time is 1043189354
+Compaction completed. Total compaction time is 1160913873
+Compaction completed. Total compaction time is 1280940449
+Compaction completed. Total compaction time is 1401455268
+Compaction completed. Total compaction time is 1523126315
+Compaction completed. Total compaction time is 1641362917
+Compaction completed. Total compaction time is 1761861515
+Compaction completed. Total compaction time is 1880386818
+Compaction completed. Total compaction time is 2000156769
+Compaction completed. Total compaction time is 2118775271
+Compaction completed. Total compaction time is 2238071478
+Compaction completed. Total compaction time is 2356709900
+Compaction completed. Total compaction time is 2477230615
+Compaction completed. Total compaction time is 2596062957
+Compaction completed. Total compaction time is 2716001487
+Compaction completed. Total compaction time is 2836204099
+Compaction completed. Total compaction time is 2954388575
+Compaction completed. Total compaction time is 3074217664
+Compaction completed. Total compaction time is 3193706889
+Compaction completed. Total compaction time is 3312868592
+Compaction completed. Total compaction time is 3430673424
+Compaction completed. Total compaction time is 3551611259
+Compaction completed. Total compaction time is 3669354550
+Compaction completed. Total compaction time is 3788439270
+Compaction completed. Total compaction time is 3907966554
+Compaction completed. Total compaction time is 4025416703
+Compaction completed. Total compaction time is 4145596030
+Compaction completed. Total compaction time is 4263612941
+Total program time is 71400075365
+Total compaction time is xxxxxx 4263612941
+Total Wait Time is 0
+Compaction fraction is 5.97144%
+Compaction fracwithout wait_time is 5.97144%
+Compaction completed. Total compaction time is 110213334
+Compaction completed. Total compaction time is 220863550
+Compaction completed. Total compaction time is 339177362
+Compaction completed. Total compaction time is 457706735
+Compaction completed. Total compaction time is 577152474
+Compaction completed. Total compaction time is 697005136
+Compaction completed. Total compaction time is 819424076
+Compaction completed. Total compaction time is 942365640
+Compaction completed. Total compaction time is 1065218123
+Compaction completed. Total compaction time is 1188092266
+Compaction completed. Total compaction time is 1310250062
+Compaction completed. Total compaction time is 1433818708
+Compaction completed. Total compaction time is 1554863756
+Compaction completed. Total compaction time is 1678216140
+Compaction completed. Total compaction time is 1797766977
+Compaction completed. Total compaction time is 1920602657
+Compaction completed. Total compaction time is 2041901946
+Compaction completed. Total compaction time is 2163651758
+Compaction completed. Total compaction time is 2286738279
+Compaction completed. Total compaction time is 2409662038
+Compaction completed. Total compaction time is 2530537483
+Compaction completed. Total compaction time is 2654793871
+Compaction completed. Total compaction time is 2775562054
+Compaction completed. Total compaction time is 2897427724
+Compaction completed. Total compaction time is 3018574129
+Compaction completed. Total compaction time is 3141088043
+Compaction completed. Total compaction time is 3262468209
+Compaction completed. Total compaction time is 3385095204
+Compaction completed. Total compaction time is 3509638052
+Compaction completed. Total compaction time is 3632920111
+Compaction completed. Total compaction time is 3754591917
+Compaction completed. Total compaction time is 3875185096
+Compaction completed. Total compaction time is 3997536527
+Compaction completed. Total compaction time is 4118796029
+Compaction completed. Total compaction time is 4240208493
+Compaction completed. Total compaction time is 4364176414
+Compaction completed. Total compaction time is 4486768605
+Compaction completed. Total compaction time is 4608664651
+Compaction completed. Total compaction time is 4733848440
+Compaction completed. Total compaction time is 4857309377
+Compaction completed. Total compaction time is 4981321838
+Total program time is 74132587567
+Total compaction time is xxxxxx 4981321838
+Total Wait Time is 0
+Compaction fraction is 6.71948%
+Compaction fracwithout wait_time is 6.71948%
+Compaction completed. Total compaction time is 108003086
+Compaction completed. Total compaction time is 214703243
+Compaction completed. Total compaction time is 325661989
+Compaction completed. Total compaction time is 440079900
+Compaction completed. Total compaction time is 555017694
+Compaction completed. Total compaction time is 667976354
+Compaction completed. Total compaction time is 784003156
+Compaction completed. Total compaction time is 899823776
+Compaction completed. Total compaction time is 1015236552
+Compaction completed. Total compaction time is 1130649108
+Compaction completed. Total compaction time is 1246195665
+Compaction completed. Total compaction time is 1358228877
+Compaction completed. Total compaction time is 1473585732
+Compaction completed. Total compaction time is 1586810271
+Compaction completed. Total compaction time is 1701664602
+Compaction completed. Total compaction time is 1816369332
+Compaction completed. Total compaction time is 1932254230
+Compaction completed. Total compaction time is 2047151800
+Compaction completed. Total compaction time is 2162935777
+Compaction completed. Total compaction time is 2278380471
+Compaction completed. Total compaction time is 2393614003
+Compaction completed. Total compaction time is 2509431839
+Compaction completed. Total compaction time is 2625532436
+Compaction completed. Total compaction time is 2741536073
+Compaction completed. Total compaction time is 2857126746
+Compaction completed. Total compaction time is 2971954694
+Compaction completed. Total compaction time is 3086974663
+Compaction completed. Total compaction time is 3201410648
+Compaction completed. Total compaction time is 3317446583
+Compaction completed. Total compaction time is 3433234837
+Compaction completed. Total compaction time is 3548599488
+Compaction completed. Total compaction time is 3664200620
+Compaction completed. Total compaction time is 3779087847
+Compaction completed. Total compaction time is 3894498837
+Compaction completed. Total compaction time is 4008884520
+Compaction completed. Total compaction time is 4123935988
+Compaction completed. Total compaction time is 4240187484
+Compaction completed. Total compaction time is 4355719194
+Compaction completed. Total compaction time is 4471058542
+Compaction completed. Total compaction time is 4585125362
+Compaction completed. Total compaction time is 4699943986
+Compaction completed. Total compaction time is 4815085833
+Compaction completed. Total compaction time is 4928637128
+Compaction completed. Total compaction time is 5044334538
+Compaction completed. Total compaction time is 5160443030
+Compaction completed. Total compaction time is 5276861064
+Total program time is 77314496003
+Total compaction time is xxxxxx 5276861064
+Total Wait Time is 0
+Compaction fraction is 6.82519%
+Compaction fracwithout wait_time is 6.82519%
+Compaction completed. Total compaction time is 108970482
+Compaction completed. Total compaction time is 218869990
+Compaction completed. Total compaction time is 333135508
+Compaction completed. Total compaction time is 450048824
+Compaction completed. Total compaction time is 568056608
+Compaction completed. Total compaction time is 687209340
+Compaction completed. Total compaction time is 805874308
+Compaction completed. Total compaction time is 925162901
+Compaction completed. Total compaction time is 1042906862
+Compaction completed. Total compaction time is 1162157113
+Compaction completed. Total compaction time is 1281140502
+Compaction completed. Total compaction time is 1400010590
+Compaction completed. Total compaction time is 1519477182
+Compaction completed. Total compaction time is 1638605972
+Compaction completed. Total compaction time is 1757097237
+Compaction completed. Total compaction time is 1876310567
+Compaction completed. Total compaction time is 1992464516
+Compaction completed. Total compaction time is 2110996901
+Compaction completed. Total compaction time is 2227827794
+Compaction completed. Total compaction time is 2347179904
+Compaction completed. Total compaction time is 2466368333
+Compaction completed. Total compaction time is 2584955118
+Compaction completed. Total compaction time is 2702765097
+Compaction completed. Total compaction time is 2820284594
+Compaction completed. Total compaction time is 2936691882
+Compaction completed. Total compaction time is 3055573728
+Compaction completed. Total compaction time is 3174190092
+Compaction completed. Total compaction time is 3292220591
+Compaction completed. Total compaction time is 3409985529
+Compaction completed. Total compaction time is 3529146216
+Compaction completed. Total compaction time is 3647821779
+Compaction completed. Total compaction time is 3766354661
+Compaction completed. Total compaction time is 3885205705
+Compaction completed. Total compaction time is 4003614385
+Compaction completed. Total compaction time is 4122484369
+Compaction completed. Total compaction time is 4240664467
+Compaction completed. Total compaction time is 4358882585
+Compaction completed. Total compaction time is 4476830961
+Compaction completed. Total compaction time is 4594684777
+Compaction completed. Total compaction time is 4713079697
+Compaction completed. Total compaction time is 4831186935
+Compaction completed. Total compaction time is 4949126591
+Compaction completed. Total compaction time is 5064854372
+Compaction completed. Total compaction time is 5183103290
+Compaction completed. Total compaction time is 5300901865
+Compaction completed. Total compaction time is 5419241743
+Compaction completed. Total compaction time is 5538023044
+Compaction completed. Total compaction time is 5656801364
+Compaction completed. Total compaction time is 5775353083
+Compaction completed. Total compaction time is 5894821988
+Compaction completed. Total compaction time is 6012311959
+Total program time is 79786853540
+Total compaction time is xxxxxx 6012311959
+Total Wait Time is 0
+Compaction fraction is 7.53547%
+Compaction fracwithout wait_time is 7.53547%
+Compaction completed. Total compaction time is 6131836824
+Compaction completed. Total compaction time is 115398256
+Compaction completed. Total compaction time is 230687911
+Compaction completed. Total compaction time is 350440957
+Compaction completed. Total compaction time is 471922295
+Compaction completed. Total compaction time is 595278445
+Compaction completed. Total compaction time is 718584315
+Compaction completed. Total compaction time is 841184340
+Compaction completed. Total compaction time is 965201994
+Compaction completed. Total compaction time is 1088103041
+Compaction completed. Total compaction time is 1204672504
+Compaction completed. Total compaction time is 1321248706
+Compaction completed. Total compaction time is 1438088970
+Compaction completed. Total compaction time is 1554434791
+Compaction completed. Total compaction time is 1671539557
+Compaction completed. Total compaction time is 1787615295
+Compaction completed. Total compaction time is 1904066316
+Compaction completed. Total compaction time is 2019479390
+Compaction completed. Total compaction time is 2134309239
+Compaction completed. Total compaction time is 2250852600
+Compaction completed. Total compaction time is 2367021079
+Compaction completed. Total compaction time is 2485236291
+Compaction completed. Total compaction time is 2601165827
+Compaction completed. Total compaction time is 2717432165
+Compaction completed. Total compaction time is 2836343201
+Compaction completed. Total compaction time is 2954078610
+Compaction completed. Total compaction time is 3070928792
+Compaction completed. Total compaction time is 3189724287
+Compaction completed. Total compaction time is 3308970385
+Compaction completed. Total compaction time is 3426504711
+Compaction completed. Total compaction time is 3544242819
+Compaction completed. Total compaction time is 3662157407
+Compaction completed. Total compaction time is 3781381664
+Compaction completed. Total compaction time is 3900533720
+Compaction completed. Total compaction time is 4019012012
+Compaction completed. Total compaction time is 4137660005
+Compaction completed. Total compaction time is 4255743454
+Compaction completed. Total compaction time is 4374168545
+Compaction completed. Total compaction time is 4493437701
+Compaction completed. Total compaction time is 4609641037
+Compaction completed. Total compaction time is 4729409737
+Compaction completed. Total compaction time is 4844960467
+Compaction completed. Total compaction time is 4965900774
+Compaction completed. Total compaction time is 5084431544
+Compaction completed. Total compaction time is 5202259130
+Compaction completed. Total compaction time is 5320363557
+Compaction completed. Total compaction time is 5440127496
+Compaction completed. Total compaction time is 5557138556
+Compaction completed. Total compaction time is 5675033302
+Compaction completed. Total compaction time is 5792387444
+Compaction completed. Total compaction time is 5911359896
+Compaction completed. Total compaction time is 6030264008
+Compaction completed. Total compaction time is 6146830304
+Compaction completed. Total compaction time is 6265264972
+Compaction completed. Total compaction time is 6381527686
+Compaction completed. Total compaction time is 6500412397
+Compaction completed. Total compaction time is 6616365208
+Compaction completed. Total compaction time is 6735887403
+Total program time is 82650516805
+Total compaction time is xxxxxx 6735887403
+Total Wait Time is 0
+Compaction fraction is 8.14984%
+Compaction fracwithout wait_time is 8.14984%
+Compaction completed. Total compaction time is 107599754
+Compaction completed. Total compaction time is 216193375
+Compaction completed. Total compaction time is 327549534
+Compaction completed. Total compaction time is 443556585
+Compaction completed. Total compaction time is 560351621
+Compaction completed. Total compaction time is 677433679
+Compaction completed. Total compaction time is 791411036
+Compaction completed. Total compaction time is 908712995
+Compaction completed. Total compaction time is 1025447150
+Compaction completed. Total compaction time is 1140209931
+Compaction completed. Total compaction time is 1257837252
+Compaction completed. Total compaction time is 1374627867
+Compaction completed. Total compaction time is 1492779311
+Compaction completed. Total compaction time is 1609102826
+Compaction completed. Total compaction time is 1726939758
+Compaction completed. Total compaction time is 1844511752
+Compaction completed. Total compaction time is 1960704231
+Compaction completed. Total compaction time is 2074967736
+Compaction completed. Total compaction time is 2191768076
+Compaction completed. Total compaction time is 2310739471
+Compaction completed. Total compaction time is 2426904155
+Compaction completed. Total compaction time is 2544382216
+Compaction completed. Total compaction time is 2658180668
+Compaction completed. Total compaction time is 2772838219
+Compaction completed. Total compaction time is 2890226224
+Compaction completed. Total compaction time is 3006461874
+Compaction completed. Total compaction time is 3123096763
+Compaction completed. Total compaction time is 3238254257
+Compaction completed. Total compaction time is 3354914450
+Compaction completed. Total compaction time is 3472715940
+Compaction completed. Total compaction time is 3588713536
+Compaction completed. Total compaction time is 3705189972
+Compaction completed. Total compaction time is 3822959846
+Compaction completed. Total compaction time is 3938791546
+Compaction completed. Total compaction time is 4054628808
+Compaction completed. Total compaction time is 4172326606
+Compaction completed. Total compaction time is 4292081540
+Compaction completed. Total compaction time is 4408650363
+Compaction completed. Total compaction time is 4525429567
+Compaction completed. Total compaction time is 4640032437
+Compaction completed. Total compaction time is 4757890141
+Compaction completed. Total compaction time is 4872901413
+Compaction completed. Total compaction time is 4989899841
+Compaction completed. Total compaction time is 5106757031
+Compaction completed. Total compaction time is 5224060341
+Compaction completed. Total compaction time is 5342129510
+Compaction completed. Total compaction time is 5457348227
+Compaction completed. Total compaction time is 5575915817
+Compaction completed. Total compaction time is 5691906774
+Compaction completed. Total compaction time is 5810697867
+Compaction completed. Total compaction time is 5924116013
+Compaction completed. Total compaction time is 6043531586
+Compaction completed. Total compaction time is 6161433885
+Compaction completed. Total compaction time is 6279690003
+Compaction completed. Total compaction time is 6396140366
+Compaction completed. Total compaction time is 6513779188
+Compaction completed. Total compaction time is 6630856212
+Compaction completed. Total compaction time is 6749985973
+Compaction completed. Total compaction time is 6867934079
+Compaction completed. Total compaction time is 6986281904
+Compaction completed. Total compaction time is 7102743095
+Compaction completed. Total compaction time is 7220631804
+Total program time is 84275952943
+Total compaction time is xxxxxx 7220631804
+Total Wait Time is 0
+Compaction fraction is 8.56784%
+Compaction fracwithout wait_time is 8.56784%
+Compaction completed. Total compaction time is 105312037
+Compaction completed. Total compaction time is 210693176
+Compaction completed. Total compaction time is 320281907
+Compaction completed. Total compaction time is 432207774
+Compaction completed. Total compaction time is 546867557
+Compaction completed. Total compaction time is 661183782
+Compaction completed. Total compaction time is 774360209
+Compaction completed. Total compaction time is 890765370
+Compaction completed. Total compaction time is 1004008900
+Compaction completed. Total compaction time is 1119635246
+Compaction completed. Total compaction time is 1233855895
+Compaction completed. Total compaction time is 1347527167
+Compaction completed. Total compaction time is 1462910797
+Compaction completed. Total compaction time is 1578429027
+Compaction completed. Total compaction time is 1693148280
+Compaction completed. Total compaction time is 1806819276
+Compaction completed. Total compaction time is 1920908232
+Compaction completed. Total compaction time is 2036462786
+Compaction completed. Total compaction time is 2150646884
+Compaction completed. Total compaction time is 2266171921
+Compaction completed. Total compaction time is 2378335845
+Compaction completed. Total compaction time is 2493468084
+Compaction completed. Total compaction time is 2609392824
+Compaction completed. Total compaction time is 2722601770
+Compaction completed. Total compaction time is 2836225556
+Compaction completed. Total compaction time is 2951022940
+Compaction completed. Total compaction time is 3066481945
+Compaction completed. Total compaction time is 3182405930
+Compaction completed. Total compaction time is 3293789464
+Compaction completed. Total compaction time is 3407996094
+Compaction completed. Total compaction time is 3522616684
+Compaction completed. Total compaction time is 3637052055
+Compaction completed. Total compaction time is 3750617849
+Compaction completed. Total compaction time is 3864976803
+Compaction completed. Total compaction time is 3980077696
+Compaction completed. Total compaction time is 4096084029
+Compaction completed. Total compaction time is 4209568687
+Compaction completed. Total compaction time is 4322853547
+Compaction completed. Total compaction time is 4433979151
+Compaction completed. Total compaction time is 4549241949
+Compaction completed. Total compaction time is 4662960132
+Compaction completed. Total compaction time is 4778939392
+Compaction completed. Total compaction time is 4894417233
+Compaction completed. Total compaction time is 5011423892
+Compaction completed. Total compaction time is 5125923857
+Compaction completed. Total compaction time is 5240614382
+Compaction completed. Total compaction time is 5356102788
+Compaction completed. Total compaction time is 5471821214
+Compaction completed. Total compaction time is 5587893360
+Compaction completed. Total compaction time is 5703098369
+Compaction completed. Total compaction time is 5817032481
+Compaction completed. Total compaction time is 5932190552
+Compaction completed. Total compaction time is 6047999763
+Compaction completed. Total compaction time is 6164261434
+Compaction completed. Total compaction time is 6279746887
+Compaction completed. Total compaction time is 6396101840
+Compaction completed. Total compaction time is 6511801356
+Compaction completed. Total compaction time is 6624502556
+Compaction completed. Total compaction time is 6736796799
+Compaction completed. Total compaction time is 6851867158
+Compaction completed. Total compaction time is 6966769719
+Compaction completed. Total compaction time is 7082892058
+Compaction completed. Total compaction time is 7198064741
+Compaction completed. Total compaction time is 7314429662
+Compaction completed. Total compaction time is 7428045129
+Compaction completed. Total compaction time is 7543560314
+Compaction completed. Total compaction time is 7659849399
+Total program time is 87205916694
+Total compaction time is xxxxxx 7659849399
+Total Wait Time is 0
+Compaction fraction is 8.78363%
+Compaction fracwithout wait_time is 8.78363%
+Compaction completed. Total compaction time is 118005325
+Compaction completed. Total compaction time is 236153210
+Compaction completed. Total compaction time is 358053650
+Compaction completed. Total compaction time is 480861310
+Compaction completed. Total compaction time is 605824029
+Compaction completed. Total compaction time is 732158147
+Compaction completed. Total compaction time is 856478328
+Compaction completed. Total compaction time is 983368066
+Compaction completed. Total compaction time is 1109789227
+Compaction completed. Total compaction time is 1236539428
+Compaction completed. Total compaction time is 1363010150
+Compaction completed. Total compaction time is 1487523396
+Compaction completed. Total compaction time is 1613723182
+Compaction completed. Total compaction time is 1740249668
+Compaction completed. Total compaction time is 1867308314
+Compaction completed. Total compaction time is 1994728700
+Compaction completed. Total compaction time is 2121510848
+Compaction completed. Total compaction time is 2246883099
+Compaction completed. Total compaction time is 2374259429
+Compaction completed. Total compaction time is 2498855623
+Compaction completed. Total compaction time is 2625738716
+Compaction completed. Total compaction time is 2752829350
+Compaction completed. Total compaction time is 2879343645
+Compaction completed. Total compaction time is 2998343110
+Compaction completed. Total compaction time is 3117740316
+Compaction completed. Total compaction time is 3234691047
+Compaction completed. Total compaction time is 3354179255
+Compaction completed. Total compaction time is 3474337543
+Compaction completed. Total compaction time is 3592952994
+Compaction completed. Total compaction time is 3713540704
+Compaction completed. Total compaction time is 3831864438
+Compaction completed. Total compaction time is 3951767930
+Compaction completed. Total compaction time is 4072431262
+Compaction completed. Total compaction time is 4192748475
+Compaction completed. Total compaction time is 4312139031
+Compaction completed. Total compaction time is 4431318548
+Compaction completed. Total compaction time is 4551226305
+Compaction completed. Total compaction time is 4671600802
+Compaction completed. Total compaction time is 4787473586
+Compaction completed. Total compaction time is 4908878824
+Compaction completed. Total compaction time is 5027925606
+Compaction completed. Total compaction time is 5147042208
+Compaction completed. Total compaction time is 5265932932
+Compaction completed. Total compaction time is 5386447695
+Compaction completed. Total compaction time is 5506247060
+Compaction completed. Total compaction time is 5625646647
+Compaction completed. Total compaction time is 5745469074
+Compaction completed. Total compaction time is 5865060683
+Compaction completed. Total compaction time is 5985102271
+Compaction completed. Total compaction time is 6100649745
+Compaction completed. Total compaction time is 6218949857
+Compaction completed. Total compaction time is 6338559729
+Compaction completed. Total compaction time is 6454594186
+Compaction completed. Total compaction time is 6574480560
+Compaction completed. Total compaction time is 6694354974
+Compaction completed. Total compaction time is 6816238667
+Compaction completed. Total compaction time is 6935429484
+Compaction completed. Total compaction time is 7055650841
+Compaction completed. Total compaction time is 7174263300
+Compaction completed. Total compaction time is 7295332478
+Compaction completed. Total compaction time is 7413720419
+Compaction completed. Total compaction time is 7533752840
+Compaction completed. Total compaction time is 7651619063
+Compaction completed. Total compaction time is 7771246286
+Compaction completed. Total compaction time is 7892345989
+Compaction completed. Total compaction time is 8011925674
+Compaction completed. Total compaction time is 8135570516
+Compaction completed. Total compaction time is 8255807662
+Compaction completed. Total compaction time is 8375542990
+Compaction completed. Total compaction time is 8494803039
+Compaction completed. Total compaction time is 8613679669
+Compaction completed. Total compaction time is 8733549239
+Total program time is 90255582770
+Total compaction time is xxxxxx 8733549239
+Total Wait Time is 0
+Compaction fraction is 9.67646%
+Compaction fracwithout wait_time is 9.67646%
+Compaction completed. Total compaction time is 110919000
+Compaction completed. Total compaction time is 222502040
+Compaction completed. Total compaction time is 338784537
+Compaction completed. Total compaction time is 458512432
+Compaction completed. Total compaction time is 578984868
+Compaction completed. Total compaction time is 699794924
+Compaction completed. Total compaction time is 819966381
+Compaction completed. Total compaction time is 938138661
+Compaction completed. Total compaction time is 1058749240
+Compaction completed. Total compaction time is 1177044741
+Compaction completed. Total compaction time is 1297325722
+Compaction completed. Total compaction time is 1417550064
+Compaction completed. Total compaction time is 1537812426
+Compaction completed. Total compaction time is 1658071369
+Compaction completed. Total compaction time is 1779078012
+Compaction completed. Total compaction time is 1901206015
+Compaction completed. Total compaction time is 2022249621
+Compaction completed. Total compaction time is 2142911128
+Compaction completed. Total compaction time is 2263154135
+Compaction completed. Total compaction time is 2385095542
+Compaction completed. Total compaction time is 2505151911
+Compaction completed. Total compaction time is 2623980102
+Compaction completed. Total compaction time is 2745982732
+Compaction completed. Total compaction time is 2867199943
+Compaction completed. Total compaction time is 2987665316
+Compaction completed. Total compaction time is 3108702729
+Compaction completed. Total compaction time is 3229697522
+Compaction completed. Total compaction time is 3351088657
+Compaction completed. Total compaction time is 3472317613
+Compaction completed. Total compaction time is 3593948729
+Compaction completed. Total compaction time is 3715355186
+Compaction completed. Total compaction time is 3836634444
+Compaction completed. Total compaction time is 3957780663
+Compaction completed. Total compaction time is 4078777003
+Compaction completed. Total compaction time is 4197145686
+Compaction completed. Total compaction time is 4317712428
+Compaction completed. Total compaction time is 4436787751
+Compaction completed. Total compaction time is 4557615594
+Compaction completed. Total compaction time is 4678024539
+Compaction completed. Total compaction time is 4798059504
+Compaction completed. Total compaction time is 4917596411
+Compaction completed. Total compaction time is 5036282579
+Compaction completed. Total compaction time is 5156972567
+Compaction completed. Total compaction time is 5277572656
+Compaction completed. Total compaction time is 5398650225
+Compaction completed. Total compaction time is 5518111996
+Compaction completed. Total compaction time is 5638654208
+Compaction completed. Total compaction time is 5759665980
+Compaction completed. Total compaction time is 5879766393
+Compaction completed. Total compaction time is 6000813406
+Compaction completed. Total compaction time is 6121983759
+Compaction completed. Total compaction time is 6242571194
+Compaction completed. Total compaction time is 6360171392
+Compaction completed. Total compaction time is 6480826929
+Compaction completed. Total compaction time is 6600768367
+Compaction completed. Total compaction time is 6719802406
+Compaction completed. Total compaction time is 6841701325
+Compaction completed. Total compaction time is 6963450904
+Compaction completed. Total compaction time is 7083783946
+Compaction completed. Total compaction time is 7204703788
+Compaction completed. Total compaction time is 7323106612
+Compaction completed. Total compaction time is 7443413035
+Compaction completed. Total compaction time is 7563044499
+Compaction completed. Total compaction time is 7680443246
+Compaction completed. Total compaction time is 7801575072
+Compaction completed. Total compaction time is 7919959768
+Compaction completed. Total compaction time is 8039921869
+Compaction completed. Total compaction time is 8158489046
+Compaction completed. Total compaction time is 8279424431
+Compaction completed. Total compaction time is 8401254879
+Compaction completed. Total compaction time is 8521762525
+Compaction completed. Total compaction time is 8642147190
+Compaction completed. Total compaction time is 8760972192
+Compaction completed. Total compaction time is 8881624480
+Compaction completed. Total compaction time is 9002289108
+Compaction completed. Total compaction time is 9122406776
+Compaction completed. Total compaction time is 9242117803
+Total program time is 91624244357
+Total compaction time is xxxxxx 9242117803
+Total Wait Time is 0
+Compaction fraction is 10.087%
+Compaction fracwithout wait_time is 10.087%
+Compaction completed. Total compaction time is 109904360
+Compaction completed. Total compaction time is 218752718
+Compaction completed. Total compaction time is 332533731
+Compaction completed. Total compaction time is 448599351
+Compaction completed. Total compaction time is 565885915
+Compaction completed. Total compaction time is 683599222
+Compaction completed. Total compaction time is 800533226
+Compaction completed. Total compaction time is 917456991
+Compaction completed. Total compaction time is 1034137256
+Compaction completed. Total compaction time is 1151371664
+Compaction completed. Total compaction time is 1269153154
+Compaction completed. Total compaction time is 1387645746
+Compaction completed. Total compaction time is 1506531840
+Compaction completed. Total compaction time is 1623070768
+Compaction completed. Total compaction time is 1740608539
+Compaction completed. Total compaction time is 1861033660
+Compaction completed. Total compaction time is 1980446538
+Compaction completed. Total compaction time is 2099228635
+Compaction completed. Total compaction time is 2218044073
+Compaction completed. Total compaction time is 2335331527
+Compaction completed. Total compaction time is 2453507044
+Compaction completed. Total compaction time is 2572723325
+Compaction completed. Total compaction time is 2690869764
+Compaction completed. Total compaction time is 2808037620
+Compaction completed. Total compaction time is 2925386937
+Compaction completed. Total compaction time is 3041831552
+Compaction completed. Total compaction time is 3160249394
+Compaction completed. Total compaction time is 3277545473
+Compaction completed. Total compaction time is 3395335594
+Compaction completed. Total compaction time is 3512993575
+Compaction completed. Total compaction time is 3632015101
+Compaction completed. Total compaction time is 3749540163
+Compaction completed. Total compaction time is 3866632744
+Compaction completed. Total compaction time is 3986258753
+Compaction completed. Total compaction time is 4105096460
+Compaction completed. Total compaction time is 4223874549
+Compaction completed. Total compaction time is 4342013916
+Compaction completed. Total compaction time is 4460775326
+Compaction completed. Total compaction time is 4580384759
+Compaction completed. Total compaction time is 4698432147
+Compaction completed. Total compaction time is 4816330156
+Compaction completed. Total compaction time is 4933815124
+Compaction completed. Total compaction time is 5050838971
+Compaction completed. Total compaction time is 5169976686
+Compaction completed. Total compaction time is 5287852338
+Compaction completed. Total compaction time is 5403812644
+Compaction completed. Total compaction time is 5521585636
+Compaction completed. Total compaction time is 5639648670
+Compaction completed. Total compaction time is 5756586140
+Compaction completed. Total compaction time is 5873121170
+Compaction completed. Total compaction time is 5990123822
+Compaction completed. Total compaction time is 6108472619
+Compaction completed. Total compaction time is 6227321898
+Compaction completed. Total compaction time is 6346624778
+Compaction completed. Total compaction time is 6464708796
+Compaction completed. Total compaction time is 6583729577
+Compaction completed. Total compaction time is 6703137660
+Compaction completed. Total compaction time is 6820062156
+Compaction completed. Total compaction time is 6936753231
+Compaction completed. Total compaction time is 7056179775
+Compaction completed. Total compaction time is 7176496283
+Compaction completed. Total compaction time is 7295687828
+Compaction completed. Total compaction time is 7414733713
+Compaction completed. Total compaction time is 7529867927
+Compaction completed. Total compaction time is 7648872673
+Compaction completed. Total compaction time is 7766212834
+Compaction completed. Total compaction time is 7883794117
+Compaction completed. Total compaction time is 8002250884
+Compaction completed. Total compaction time is 8116901758
+Compaction completed. Total compaction time is 8235899347
+Compaction completed. Total compaction time is 8352200688
+Compaction completed. Total compaction time is 8471180958
+Compaction completed. Total compaction time is 8587732921
+Compaction completed. Total compaction time is 8704263864
+Compaction completed. Total compaction time is 8820390146
+Compaction completed. Total compaction time is 8937354552
+Compaction completed. Total compaction time is 9053927117
+Compaction completed. Total compaction time is 9172350009
+Compaction completed. Total compaction time is 9290160939
+Compaction completed. Total compaction time is 9409286354
+Compaction completed. Total compaction time is 9527606807
+Compaction completed. Total compaction time is 9647920887
+Total program time is 95586125674
+Total compaction time is xxxxxx 9647920887
+Total Wait Time is 0
+Compaction fraction is 10.0934%
+Compaction fracwithout wait_time is 10.0934%
+Compaction completed. Total compaction time is 113344019
+Compaction completed. Total compaction time is 226587517
+Compaction completed. Total compaction time is 344137951
+Compaction completed. Total compaction time is 464762275
+Compaction completed. Total compaction time is 585222420
+Compaction completed. Total compaction time is 706586848
+Compaction completed. Total compaction time is 829261301
+Compaction completed. Total compaction time is 951554173
+Compaction completed. Total compaction time is 1073127103
+Compaction completed. Total compaction time is 1194349653
+Compaction completed. Total compaction time is 1316374526
+Compaction completed. Total compaction time is 1438032158
+Compaction completed. Total compaction time is 1559298629
+Compaction completed. Total compaction time is 1682769769
+Compaction completed. Total compaction time is 1806150769
+Compaction completed. Total compaction time is 1928038284
+Compaction completed. Total compaction time is 2049793399
+Compaction completed. Total compaction time is 2171923776
+Compaction completed. Total compaction time is 2291394344
+Compaction completed. Total compaction time is 2413499022
+Compaction completed. Total compaction time is 2535584000
+Compaction completed. Total compaction time is 2658620802
+Compaction completed. Total compaction time is 2781074682
+Compaction completed. Total compaction time is 2903660704
+Compaction completed. Total compaction time is 3025979585
+Compaction completed. Total compaction time is 3149057909
+Compaction completed. Total compaction time is 3269937507
+Compaction completed. Total compaction time is 3392302750
+Compaction completed. Total compaction time is 3514750294
+Compaction completed. Total compaction time is 3637425039
+Compaction completed. Total compaction time is 3760242085
+Compaction completed. Total compaction time is 3882822230
+Compaction completed. Total compaction time is 4005356096
+Compaction completed. Total compaction time is 4127340581
+Compaction completed. Total compaction time is 4252691138
+Compaction completed. Total compaction time is 4375028605
+Compaction completed. Total compaction time is 4497859134
+Compaction completed. Total compaction time is 4620894164
+Compaction completed. Total compaction time is 4744176235
+Compaction completed. Total compaction time is 4866584264
+Compaction completed. Total compaction time is 4988931033
+Compaction completed. Total compaction time is 5111602204
+Compaction completed. Total compaction time is 5234454916
+Compaction completed. Total compaction time is 5353337974
+Compaction completed. Total compaction time is 5475328785
+Compaction completed. Total compaction time is 5594970728
+Compaction completed. Total compaction time is 5712440723
+Compaction completed. Total compaction time is 5827059349
+Compaction completed. Total compaction time is 5943959303
+Compaction completed. Total compaction time is 6061127978
+Compaction completed. Total compaction time is 6178760096
+Compaction completed. Total compaction time is 6296077373
+Compaction completed. Total compaction time is 6414569755
+Compaction completed. Total compaction time is 6532792676
+Compaction completed. Total compaction time is 6649141031
+Compaction completed. Total compaction time is 6766790851
+Compaction completed. Total compaction time is 6885021393
+Compaction completed. Total compaction time is 7002750414
+Compaction completed. Total compaction time is 7120436675
+Compaction completed. Total compaction time is 7239292981
+Compaction completed. Total compaction time is 7357560625
+Compaction completed. Total compaction time is 7476744993
+Compaction completed. Total compaction time is 7594080456
+Compaction completed. Total compaction time is 7711100837
+Compaction completed. Total compaction time is 7830486168
+Compaction completed. Total compaction time is 7948049472
+Compaction completed. Total compaction time is 8065175696
+Compaction completed. Total compaction time is 8179798351
+Compaction completed. Total compaction time is 8297601677
+Compaction completed. Total compaction time is 8415402084
+Compaction completed. Total compaction time is 8532927870
+Compaction completed. Total compaction time is 8650977599
+Compaction completed. Total compaction time is 8770121172
+Compaction completed. Total compaction time is 8888803684
+Compaction completed. Total compaction time is 9005756990
+Compaction completed. Total compaction time is 9123657160
+Compaction completed. Total compaction time is 9239645523
+Compaction completed. Total compaction time is 9356252169
+Compaction completed. Total compaction time is 9474245380
+Compaction completed. Total compaction time is 9591989251
+Compaction completed. Total compaction time is 9710203584
+Compaction completed. Total compaction time is 9824807884
+Compaction completed. Total compaction time is 9940353448
+Compaction completed. Total compaction time is 10059270485
+Compaction completed. Total compaction time is 10178421644
+Compaction completed. Total compaction time is 10296907692
+Compaction completed. Total compaction time is 10415893896
+Total program time is 97722545044
+Total compaction time is xxxxxx 10415893896
+Total Wait Time is 0
+Compaction fraction is 10.6586%
+Compaction fracwithout wait_time is 10.6586%
+Compaction completed. Total compaction time is 107396550
+Compaction completed. Total compaction time is 216500124
+Compaction completed. Total compaction time is 331618477
+Compaction completed. Total compaction time is 448361516
+Compaction completed. Total compaction time is 566052167
+Compaction completed. Total compaction time is 684542491
+Compaction completed. Total compaction time is 802540422
+Compaction completed. Total compaction time is 918767993
+Compaction completed. Total compaction time is 1036596049
+Compaction completed. Total compaction time is 1155607435
+Compaction completed. Total compaction time is 1273840550
+Compaction completed. Total compaction time is 1392773020
+Compaction completed. Total compaction time is 1511014139
+Compaction completed. Total compaction time is 1629147241
+Compaction completed. Total compaction time is 1747395464
+Compaction completed. Total compaction time is 1865304752
+Compaction completed. Total compaction time is 1983512300
+Compaction completed. Total compaction time is 2102500742
+Compaction completed. Total compaction time is 2221207189
+Compaction completed. Total compaction time is 2340936928
+Compaction completed. Total compaction time is 2459736777
+Compaction completed. Total compaction time is 2579435979
+Compaction completed. Total compaction time is 2697846636
+Compaction completed. Total compaction time is 2816968267
+Compaction completed. Total compaction time is 2935286448
+Compaction completed. Total compaction time is 3052496482
+Compaction completed. Total compaction time is 3169617959
+Compaction completed. Total compaction time is 3288651098
+Compaction completed. Total compaction time is 3407365922
+Compaction completed. Total compaction time is 3524461184
+Compaction completed. Total compaction time is 3643024074
+Compaction completed. Total compaction time is 3760940692
+Compaction completed. Total compaction time is 3878592034
+Compaction completed. Total compaction time is 3994575814
+Compaction completed. Total compaction time is 4113489247
+Compaction completed. Total compaction time is 4231544210
+Compaction completed. Total compaction time is 4348933002
+Compaction completed. Total compaction time is 4466931450
+Compaction completed. Total compaction time is 4582201267
+Compaction completed. Total compaction time is 4699422466
+Compaction completed. Total compaction time is 4815778896
+Compaction completed. Total compaction time is 4935273577
+Compaction completed. Total compaction time is 5051007317
+Compaction completed. Total compaction time is 5169779848
+Compaction completed. Total compaction time is 5288057386
+Compaction completed. Total compaction time is 5406641403
+Compaction completed. Total compaction time is 5526741406
+Compaction completed. Total compaction time is 5644277296
+Compaction completed. Total compaction time is 5760730878
+Compaction completed. Total compaction time is 5879102564
+Compaction completed. Total compaction time is 5998735659
+Compaction completed. Total compaction time is 6117696342
+Compaction completed. Total compaction time is 6236156792
+Compaction completed. Total compaction time is 6354017070
+Compaction completed. Total compaction time is 6470960638
+Compaction completed. Total compaction time is 6589255794
+Compaction completed. Total compaction time is 6707836369
+Compaction completed. Total compaction time is 6825998890
+Compaction completed. Total compaction time is 6943692659
+Compaction completed. Total compaction time is 7060489978
+Compaction completed. Total compaction time is 7179306440
+Compaction completed. Total compaction time is 7297361711
+Compaction completed. Total compaction time is 7416159076
+Compaction completed. Total compaction time is 7532784243
+Compaction completed. Total compaction time is 7651879289
+Compaction completed. Total compaction time is 7770350583
+Compaction completed. Total compaction time is 7889621351
+Compaction completed. Total compaction time is 8008728622
+Compaction completed. Total compaction time is 8126918343
+Compaction completed. Total compaction time is 8243960776
+Compaction completed. Total compaction time is 8363137191
+Compaction completed. Total compaction time is 8481961811
+Compaction completed. Total compaction time is 8597963359
+Compaction completed. Total compaction time is 8716022690
+Compaction completed. Total compaction time is 8832384979
+Compaction completed. Total compaction time is 8950198016
+Compaction completed. Total compaction time is 9066181411
+Compaction completed. Total compaction time is 9182326266
+Compaction completed. Total compaction time is 9300621723
+Compaction completed. Total compaction time is 9420489328
+Compaction completed. Total compaction time is 9539330285
+Compaction completed. Total compaction time is 9656545138
+Compaction completed. Total compaction time is 9774417347
+Compaction completed. Total compaction time is 9891978661
+Compaction completed. Total compaction time is 10010972923
+Compaction completed. Total compaction time is 10126602877
+Compaction completed. Total compaction time is 10245252606
+Compaction completed. Total compaction time is 10362895545
+Compaction completed. Total compaction time is 10481835114
+Compaction completed. Total compaction time is 10600680986
+Compaction completed. Total compaction time is 10717560137
+Compaction completed. Total compaction time is 10833189221
+Total program time is 98209489503
+Total compaction time is xxxxxx 10833189221
+Total Wait Time is 0
+Compaction fraction is 11.0307%
+Compaction fracwithout wait_time is 11.0307%
+Compaction completed. Total compaction time is 114191862
+Compaction completed. Total compaction time is 226977997
+Compaction completed. Total compaction time is 343672899
+Compaction completed. Total compaction time is 463572115
+Compaction completed. Total compaction time is 586040069
+Compaction completed. Total compaction time is 706708581
+Compaction completed. Total compaction time is 827297136
+Compaction completed. Total compaction time is 948036031
+Compaction completed. Total compaction time is 1069315643
+Compaction completed. Total compaction time is 1189383527
+Compaction completed. Total compaction time is 1308132764
+Compaction completed. Total compaction time is 1429465540
+Compaction completed. Total compaction time is 1550693319
+Compaction completed. Total compaction time is 1672441215
+Compaction completed. Total compaction time is 1794172252
+Compaction completed. Total compaction time is 1916406847
+Compaction completed. Total compaction time is 2037991169
+Compaction completed. Total compaction time is 2158828679
+Compaction completed. Total compaction time is 2279930268
+Compaction completed. Total compaction time is 2402009651
+Compaction completed. Total compaction time is 2522460010
+Compaction completed. Total compaction time is 2643991961
+Compaction completed. Total compaction time is 2765558814
+Compaction completed. Total compaction time is 2886939791
+Compaction completed. Total compaction time is 3007280059
+Compaction completed. Total compaction time is 3129435993
+Compaction completed. Total compaction time is 3251522309
+Compaction completed. Total compaction time is 3372825293
+Compaction completed. Total compaction time is 3494145379
+Compaction completed. Total compaction time is 3612129474
+Compaction completed. Total compaction time is 3733341184
+Compaction completed. Total compaction time is 3855159651
+Compaction completed. Total compaction time is 3977976071
+Compaction completed. Total compaction time is 4098991127
+Compaction completed. Total compaction time is 4222508064
+Compaction completed. Total compaction time is 4343338046
+Compaction completed. Total compaction time is 4464574085
+Compaction completed. Total compaction time is 4585688667
+Compaction completed. Total compaction time is 4706818371
+Compaction completed. Total compaction time is 4828534472
+Compaction completed. Total compaction time is 4948713407
+Compaction completed. Total compaction time is 5068252069
+Compaction completed. Total compaction time is 5190031414
+Compaction completed. Total compaction time is 5312462935
+Compaction completed. Total compaction time is 5433002153
+Compaction completed. Total compaction time is 5554347486
+Compaction completed. Total compaction time is 5675157345
+Compaction completed. Total compaction time is 5796483321
+Compaction completed. Total compaction time is 5918793791
+Compaction completed. Total compaction time is 6039074260
+Compaction completed. Total compaction time is 6158971233
+Compaction completed. Total compaction time is 6282256720
+Compaction completed. Total compaction time is 6403912962
+Compaction completed. Total compaction time is 6524825532
+Compaction completed. Total compaction time is 6645049568
+Compaction completed. Total compaction time is 6766247419
+Compaction completed. Total compaction time is 6887032134
+Compaction completed. Total compaction time is 7008417146
+Compaction completed. Total compaction time is 7130573653
+Compaction completed. Total compaction time is 7252461544
+Compaction completed. Total compaction time is 7374941791
+Compaction completed. Total compaction time is 7496849125
+Compaction completed. Total compaction time is 7618622682
+Compaction completed. Total compaction time is 7738974072
+Compaction completed. Total compaction time is 7859730040
+Compaction completed. Total compaction time is 7981559301
+Compaction completed. Total compaction time is 8103517643
+Compaction completed. Total compaction time is 8223809780
+Compaction completed. Total compaction time is 8346650918
+Compaction completed. Total compaction time is 8469454637
+Compaction completed. Total compaction time is 8587459377
+Compaction completed. Total compaction time is 8708695533
+Compaction completed. Total compaction time is 8826583596
+Compaction completed. Total compaction time is 8950007918
+Compaction completed. Total compaction time is 9073289363
+Compaction completed. Total compaction time is 9194275628
+Compaction completed. Total compaction time is 9317227919
+Compaction completed. Total compaction time is 9439796835
+Compaction completed. Total compaction time is 9561593998
+Compaction completed. Total compaction time is 9682923126
+Compaction completed. Total compaction time is 9806052682
+Compaction completed. Total compaction time is 9929216979
+Compaction completed. Total compaction time is 10054496421
+Compaction completed. Total compaction time is 10176541470
+Compaction completed. Total compaction time is 10298541481
+Compaction completed. Total compaction time is 10421580045
+Compaction completed. Total compaction time is 10543553739
+Compaction completed. Total compaction time is 10664548502
+Compaction completed. Total compaction time is 10784491175
+Compaction completed. Total compaction time is 10906224195
+Compaction completed. Total compaction time is 11027625020
+Compaction completed. Total compaction time is 11149069306
+Compaction completed. Total compaction time is 11269445661
+Compaction completed. Total compaction time is 11388068332
+Compaction completed. Total compaction time is 11506375507
+Compaction completed. Total compaction time is 11626175931
+Compaction completed. Total compaction time is 11746891410
+Total program time is 100902194547
+Total compaction time is xxxxxx 11746891410
+Total Wait Time is 0
+Compaction fraction is 11.6419%
+Compaction fracwithout wait_time is 11.6419%
 ********************************
 key_range = 1000000. ops=10000000. multicore
-Compaction fracwithout wait_time is 0.445777%
-Compaction fracwithout wait_time is 3.36224%
-Compaction fracwithout wait_time is 6.36877%
-Compaction fracwithout wait_time is 9.39512%
-Compaction fracwithout wait_time is 12.4438%
-Compaction fracwithout wait_time is 14.9143%
-Compaction fracwithout wait_time is 16.7221%
-Compaction fracwithout wait_time is 20.3604%
-Compaction fracwithout wait_time is 23.8231%
-Compaction fracwithout wait_time is 29.202%
-Compaction fracwithout wait_time is 31.0052%
-Compaction fracwithout wait_time is 33.4956%
-Compaction fracwithout wait_time is 38.3162%
-Compaction fracwithout wait_time is 41.9666%
-Compaction fracwithout wait_time is 48.1182%
-Compaction fracwithout wait_time is 50.745%
-Compaction fracwithout wait_time is 57.5024%
-Compaction fracwithout wait_time is 60.6003%
-Compaction fracwithout wait_time is 65.4165%
-Compaction fracwithout wait_time is 76.4285%
-********************************
-key_range = 100000. ops=1000000. singlecore
-Compaction fracwithout wait_time is 0%
-Compaction fracwithout wait_time is 0%
-Compaction fracwithout wait_time is 0%
-Compaction fracwithout wait_time is 0%
-Compaction fracwithout wait_time is 3.41026%
-Compaction fracwithout wait_time is 3.22762%
-Compaction fracwithout wait_time is 5.83626%
-Compaction fracwithout wait_time is 5.57035%
-Compaction fracwithout wait_time is 7.7499%
-Compaction fracwithout wait_time is 8.10331%
-Compaction fracwithout wait_time is 9.15451%
-Compaction fracwithout wait_time is 9.12528%
-Compaction fracwithout wait_time is 10.6115%
-Compaction fracwithout wait_time is 10.559%
-Compaction fracwithout wait_time is 12.0973%
-Compaction fracwithout wait_time is 12.0973%
-Compaction fracwithout wait_time is 13.9123%
-Compaction fracwithout wait_time is 13.2005%
-Compaction fracwithout wait_time is 14.6864%
-Compaction fracwithout wait_time is 15.0278%
-********************************
-key_range = 100000. ops=10000000. singlecore
-Compaction fracwithout wait_time is 0.483816%
-Compaction fracwithout wait_time is 2.45385%
-Compaction fracwithout wait_time is 3.92663%
-Compaction fracwithout wait_time is 5.55875%
-Compaction fracwithout wait_time is 6.447%
-Compaction fracwithout wait_time is 7.57741%
-Compaction fracwithout wait_time is 9.39844%
-Compaction fracwithout wait_time is 9.23728%
-Compaction fracwithout wait_time is 10.8742%
-Compaction fracwithout wait_time is 11.7815%
-Compaction fracwithout wait_time is 12.4806%
-Compaction fracwithout wait_time is 12.8676%
-Compaction fracwithout wait_time is 13.9525%
-Compaction fracwithout wait_time is 14.3541%
-Compaction fracwithout wait_time is 14.4266%
-Compaction fracwithout wait_time is 16.0758%
-Compaction fracwithout wait_time is 15.4139%
-Compaction fracwithout wait_time is 16.5307%
-Compaction fracwithout wait_time is 16.3447%
-Compaction fracwithout wait_time is 17.8328%
-********************************
-key_range = 1000000. ops=10000000. singlecore
-Compaction fracwithout wait_time is 0.690568%
-Compaction fracwithout wait_time is 5.2418%
-Compaction fracwithout wait_time is 9.75436%
-Compaction fracwithout wait_time is 13.6288%
-Compaction fracwithout wait_time is 17.9881%
-Compaction fracwithout wait_time is 21.7549%
-Compaction fracwithout wait_time is 27.2907%
-Compaction fracwithout wait_time is 30.1355%
-Compaction fracwithout wait_time is 35.205%
-Compaction fracwithout wait_time is 37.5265%
-Compaction fracwithout wait_time is 41.3436%
-Compaction fracwithout wait_time is 47.0943%
-Compaction fracwithout wait_time is 48.4491%
-Compaction fracwithout wait_time is 52.9157%
-Compaction fracwithout wait_time is 57.7082%
-Compaction fracwithout wait_time is 60.6383%
-Compaction fracwithout wait_time is 64.6267%
-Compaction fracwithout wait_time is 68.528%
-Compaction fracwithout wait_time is 73.1109%
-Compaction fracwithout wait_time is 77.8461%
+Compaction completed. Total compaction time is 180848713
+Total program time is 41730621097
+Total compaction time is xxxxxx 180848713
+Total Wait Time is 0
+Compaction fraction is 0.433372%
+Compaction fracwithout wait_time is 0.433372%
+Compaction completed. Total compaction time is 185161654
+Compaction completed. Total compaction time is 442573693
+Compaction completed. Total compaction time is 774308739
+Compaction completed. Total compaction time is 1167103495
+Compaction completed. Total compaction time is 1626717158
+Compaction completed. Total compaction time is 2133664974
+Total program time is 61585086712
+Total compaction time is xxxxxx 2133664974
+Total Wait Time is 0
+Compaction fraction is 3.46458%
+Compaction fracwithout wait_time is 3.46458%
+Compaction completed. Total compaction time is 187148202
+Compaction completed. Total compaction time is 449057670
+Compaction completed. Total compaction time is 782998571
+Compaction completed. Total compaction time is 1175014556
+Compaction completed. Total compaction time is 1633306167
+Compaction completed. Total compaction time is 2136812519
+Compaction completed. Total compaction time is 2702380445
+Compaction completed. Total compaction time is 3313126457
+Compaction completed. Total compaction time is 3967314717
+Compaction completed. Total compaction time is 4652157848
+Compaction completed. Total compaction time is 5371963772
+Total program time is 81191731420
+Total compaction time is xxxxxx 5371963772
+Total Wait Time is 0
+Compaction fraction is 6.61639%
+Compaction fracwithout wait_time is 6.61639%
+Compaction completed. Total compaction time is 169048822
+Compaction completed. Total compaction time is 401838107
+Compaction completed. Total compaction time is 699353075
+Compaction completed. Total compaction time is 1052681381
+Compaction completed. Total compaction time is 1461602131
+Compaction completed. Total compaction time is 1919536586
+Compaction completed. Total compaction time is 2417555038
+Compaction completed. Total compaction time is 2962825920
+Compaction completed. Total compaction time is 3534558862
+Compaction completed. Total compaction time is 4135681636
+Compaction completed. Total compaction time is 4770171846
+Compaction completed. Total compaction time is 5430196278
+Compaction completed. Total compaction time is 6110111722
+Compaction completed. Total compaction time is 6814324700
+Compaction completed. Total compaction time is 7536263768
+Compaction completed. Total compaction time is 8281433101
+Total program time is 98059500065
+Total compaction time is xxxxxx 8281433101
+Total Wait Time is 0
+Compaction fraction is 8.44531%
+Compaction fracwithout wait_time is 8.44531%
+Compaction completed. Total compaction time is 168088969
+Compaction completed. Total compaction time is 402344048
+Compaction completed. Total compaction time is 700612354
+Compaction completed. Total compaction time is 1057511952
+Compaction completed. Total compaction time is 1469793302
+Compaction completed. Total compaction time is 1927772449
+Compaction completed. Total compaction time is 2421453262
+Compaction completed. Total compaction time is 2969695705
+Compaction completed. Total compaction time is 3547147130
+Compaction completed. Total compaction time is 4156620230
+Compaction completed. Total compaction time is 4796690276
+Compaction completed. Total compaction time is 5459634361
+Compaction completed. Total compaction time is 6148772496
+Compaction completed. Total compaction time is 6856746712
+Compaction completed. Total compaction time is 7587230556
+Compaction completed. Total compaction time is 8342830502
+Compaction completed. Total compaction time is 9105065123
+Compaction completed. Total compaction time is 9881117992
+Compaction completed. Total compaction time is 10687799310
+Compaction completed. Total compaction time is 11520749876
+Compaction completed. Total compaction time is 12339253558
+Total program time is 108283534333
+Total compaction time is xxxxxx 12339253558
+Total Wait Time is 0
+Compaction fraction is 11.3953%
+Compaction fracwithout wait_time is 11.3953%
+Compaction completed. Total compaction time is 183530697
+Compaction completed. Total compaction time is 439013127
+Compaction completed. Total compaction time is 762441908
+Compaction completed. Total compaction time is 1148415923
+Compaction completed. Total compaction time is 1597910171
+Compaction completed. Total compaction time is 2105596315
+Compaction completed. Total compaction time is 2659709960
+Compaction completed. Total compaction time is 3265820411
+Compaction completed. Total compaction time is 3904987873
+Compaction completed. Total compaction time is 4583599509
+Compaction completed. Total compaction time is 5294884185
+Compaction completed. Total compaction time is 6040923657
+Compaction completed. Total compaction time is 6818160761
+Compaction completed. Total compaction time is 7613677778
+Compaction completed. Total compaction time is 8435009686
+Compaction completed. Total compaction time is 9285612419
+Compaction completed. Total compaction time is 10144348461
+Compaction completed. Total compaction time is 11022270621
+Compaction completed. Total compaction time is 11920483697
+Compaction completed. Total compaction time is 12832355649
+Compaction completed. Total compaction time is 13765859298
+Compaction completed. Total compaction time is 14703947671
+Compaction completed. Total compaction time is 15641809182
+Compaction completed. Total compaction time is 16590621781
+Compaction completed. Total compaction time is 17548228694
+Compaction completed. Total compaction time is 18512712448
+Total program time is 116754464114
+Total compaction time is xxxxxx 18512712448
+Total Wait Time is 0
+Compaction fraction is 15.8561%
+Compaction fracwithout wait_time is 15.8561%
+Compaction completed. Total compaction time is 179275500
+Compaction completed. Total compaction time is 433379772
+Compaction completed. Total compaction time is 757277993
+Compaction completed. Total compaction time is 1135885442
+Compaction completed. Total compaction time is 1573002593
+Compaction completed. Total compaction time is 2063476502
+Compaction completed. Total compaction time is 2604025660
+Compaction completed. Total compaction time is 3186010229
+Compaction completed. Total compaction time is 3805838904
+Compaction completed. Total compaction time is 4464444623
+Compaction completed. Total compaction time is 5151389794
+Compaction completed. Total compaction time is 5877141615
+Compaction completed. Total compaction time is 6627468701
+Compaction completed. Total compaction time is 7394436692
+Compaction completed. Total compaction time is 8180660122
+Compaction completed. Total compaction time is 9006446768
+Compaction completed. Total compaction time is 9832460799
+Compaction completed. Total compaction time is 10681823545
+Compaction completed. Total compaction time is 11550609356
+Compaction completed. Total compaction time is 12426593898
+Compaction completed. Total compaction time is 13312618106
+Compaction completed. Total compaction time is 14214104770
+Compaction completed. Total compaction time is 15133028327
+Compaction completed. Total compaction time is 16055050205
+Compaction completed. Total compaction time is 16979345888
+Compaction completed. Total compaction time is 17910610966
+Compaction completed. Total compaction time is 18831589671
+Compaction completed. Total compaction time is 19691601475
+Compaction completed. Total compaction time is 20554168481
+Compaction completed. Total compaction time is 21426302015
+Compaction completed. Total compaction time is 22303191327
+Total program time is 121249622870
+Total compaction time is xxxxxx 22303191327
+Total Wait Time is 0
+Compaction fraction is 18.3944%
+Compaction fracwithout wait_time is 18.3944%
+Compaction completed. Total compaction time is 180281633
+Compaction completed. Total compaction time is 431843589
+Compaction completed. Total compaction time is 749321378
+Compaction completed. Total compaction time is 1129335150
+Compaction completed. Total compaction time is 1567922391
+Compaction completed. Total compaction time is 2058031495
+Compaction completed. Total compaction time is 2596956889
+Compaction completed. Total compaction time is 3182754819
+Compaction completed. Total compaction time is 3818403343
+Compaction completed. Total compaction time is 4481862078
+Compaction completed. Total compaction time is 5166825995
+Compaction completed. Total compaction time is 5900277135
+Compaction completed. Total compaction time is 6650333346
+Compaction completed. Total compaction time is 7416259852
+Compaction completed. Total compaction time is 8223371596
+Compaction completed. Total compaction time is 8966859008
+Compaction completed. Total compaction time is 9723571519
+Compaction completed. Total compaction time is 10483569262
+Compaction completed. Total compaction time is 11268486990
+Compaction completed. Total compaction time is 12075343727
+Compaction completed. Total compaction time is 12886130938
+Compaction completed. Total compaction time is 13708016614
+Compaction completed. Total compaction time is 14534647583
+Compaction completed. Total compaction time is 15373297636
+Compaction completed. Total compaction time is 16206072876
+Compaction completed. Total compaction time is 17057731813
+Compaction completed. Total compaction time is 17918162080
+Compaction completed. Total compaction time is 18780446905
+Compaction completed. Total compaction time is 19638041955
+Compaction completed. Total compaction time is 20509902629
+Compaction completed. Total compaction time is 21393515191
+Compaction completed. Total compaction time is 22269492042
+Compaction completed. Total compaction time is 23147929810
+Compaction completed. Total compaction time is 24031819632
+Compaction completed. Total compaction time is 24910894778
+Compaction completed. Total compaction time is 25807194869
+Total program time is 124395544997
+Total compaction time is xxxxxx 25807194869
+Total Wait Time is 0
+Compaction fraction is 20.7461%
+Compaction fracwithout wait_time is 20.7461%
+Compaction completed. Total compaction time is 183101174
+Compaction completed. Total compaction time is 436342806
+Compaction completed. Total compaction time is 759309520
+Compaction completed. Total compaction time is 1143516644
+Compaction completed. Total compaction time is 1587022461
+Compaction completed. Total compaction time is 2088066356
+Compaction completed. Total compaction time is 2632554362
+Compaction completed. Total compaction time is 3229757013
+Compaction completed. Total compaction time is 3817080221
+Compaction completed. Total compaction time is 4438334612
+Compaction completed. Total compaction time is 5075443461
+Compaction completed. Total compaction time is 5753196151
+Compaction completed. Total compaction time is 6446233822
+Compaction completed. Total compaction time is 7161768629
+Compaction completed. Total compaction time is 7896168355
+Compaction completed. Total compaction time is 8647834882
+Compaction completed. Total compaction time is 9416349012
+Compaction completed. Total compaction time is 10197517388
+Compaction completed. Total compaction time is 10994683448
+Compaction completed. Total compaction time is 11804656255
+Compaction completed. Total compaction time is 12623352871
+Compaction completed. Total compaction time is 13450169638
+Compaction completed. Total compaction time is 14297696608
+Compaction completed. Total compaction time is 15151710531
+Compaction completed. Total compaction time is 16002149670
+Compaction completed. Total compaction time is 16859501281
+Compaction completed. Total compaction time is 17733934761
+Compaction completed. Total compaction time is 18611058555
+Compaction completed. Total compaction time is 19492124944
+Compaction completed. Total compaction time is 20379835485
+Compaction completed. Total compaction time is 21268544603
+Compaction completed. Total compaction time is 22159884835
+Compaction completed. Total compaction time is 23060409680
+Compaction completed. Total compaction time is 24010720683
+Compaction completed. Total compaction time is 24907749622
+Compaction completed. Total compaction time is 25803140817
+Compaction completed. Total compaction time is 26715653443
+Compaction completed. Total compaction time is 27675524652
+Compaction completed. Total compaction time is 28673639649
+Compaction completed. Total compaction time is 29674668583
+Compaction completed. Total compaction time is 30684544893
+Total program time is 127076734953
+Total compaction time is xxxxxx 30684544893
+Total Wait Time is 0
+Compaction fraction is 24.1465%
+Compaction fracwithout wait_time is 24.1465%
+Compaction completed. Total compaction time is 169499407
+Compaction completed. Total compaction time is 404601183
+Compaction completed. Total compaction time is 702293330
+Compaction completed. Total compaction time is 1055825371
+Compaction completed. Total compaction time is 1460842167
+Compaction completed. Total compaction time is 1914266261
+Compaction completed. Total compaction time is 2406216455
+Compaction completed. Total compaction time is 2947018648
+Compaction completed. Total compaction time is 3522334904
+Compaction completed. Total compaction time is 4129232544
+Compaction completed. Total compaction time is 4756209811
+Compaction completed. Total compaction time is 5420315103
+Compaction completed. Total compaction time is 6108244045
+Compaction completed. Total compaction time is 6813963235
+Compaction completed. Total compaction time is 7544576754
+Compaction completed. Total compaction time is 8291811082
+Compaction completed. Total compaction time is 9048071982
+Compaction completed. Total compaction time is 9817820453
+Compaction completed. Total compaction time is 10616360075
+Compaction completed. Total compaction time is 11427055069
+Compaction completed. Total compaction time is 12242339675
+Compaction completed. Total compaction time is 13066729413
+Compaction completed. Total compaction time is 13897883404
+Compaction completed. Total compaction time is 14740395988
+Compaction completed. Total compaction time is 15589660565
+Compaction completed. Total compaction time is 16440477495
+Compaction completed. Total compaction time is 17305988639
+Compaction completed. Total compaction time is 18168943115
+Compaction completed. Total compaction time is 19046683826
+Compaction completed. Total compaction time is 19920620929
+Compaction completed. Total compaction time is 20801993926
+Compaction completed. Total compaction time is 21678547674
+Compaction completed. Total compaction time is 22580161001
+Compaction completed. Total compaction time is 23469733257
+Compaction completed. Total compaction time is 24362311687
+Compaction completed. Total compaction time is 25249613289
+Compaction completed. Total compaction time is 26142061504
+Compaction completed. Total compaction time is 27040973574
+Compaction completed. Total compaction time is 27932944794
+Compaction completed. Total compaction time is 28839303372
+Compaction completed. Total compaction time is 29752081825
+Compaction completed. Total compaction time is 30653203126
+Compaction completed. Total compaction time is 31566318844
+Compaction completed. Total compaction time is 32481936156
+Compaction completed. Total compaction time is 33398971521
+Compaction completed. Total compaction time is 34301425213
+Total program time is 127968305118
+Total compaction time is xxxxxx 34301425213
+Total Wait Time is 0
+Compaction fraction is 26.8046%
+Compaction fracwithout wait_time is 26.8046%
+Compaction completed. Total compaction time is 169082534
+Compaction completed. Total compaction time is 401792778
+Compaction completed. Total compaction time is 704350795
+Compaction completed. Total compaction time is 1063478841
+Compaction completed. Total compaction time is 1468130192
+Compaction completed. Total compaction time is 1921147630
+Compaction completed. Total compaction time is 2410156189
+Compaction completed. Total compaction time is 2943169395
+Compaction completed. Total compaction time is 3499370338
+Compaction completed. Total compaction time is 4089731644
+Compaction completed. Total compaction time is 4705896710
+Compaction completed. Total compaction time is 5353530780
+Compaction completed. Total compaction time is 6025823890
+Compaction completed. Total compaction time is 6715618338
+Compaction completed. Total compaction time is 7417238140
+Compaction completed. Total compaction time is 8146935126
+Compaction completed. Total compaction time is 8881331403
+Compaction completed. Total compaction time is 9630217297
+Compaction completed. Total compaction time is 10396716670
+Compaction completed. Total compaction time is 11177185821
+Compaction completed. Total compaction time is 11964194265
+Compaction completed. Total compaction time is 12764129367
+Compaction completed. Total compaction time is 13574737565
+Compaction completed. Total compaction time is 14391358656
+Compaction completed. Total compaction time is 15211470419
+Compaction completed. Total compaction time is 16040543657
+Compaction completed. Total compaction time is 16886229337
+Compaction completed. Total compaction time is 17725522021
+Compaction completed. Total compaction time is 18577354745
+Compaction completed. Total compaction time is 19419497931
+Compaction completed. Total compaction time is 20272180194
+Compaction completed. Total compaction time is 21124354147
+Compaction completed. Total compaction time is 21995332504
+Compaction completed. Total compaction time is 22851884419
+Compaction completed. Total compaction time is 23710319405
+Compaction completed. Total compaction time is 24574639766
+Compaction completed. Total compaction time is 25446022462
+Compaction completed. Total compaction time is 26313583545
+Compaction completed. Total compaction time is 27186574743
+Compaction completed. Total compaction time is 28049982561
+Compaction completed. Total compaction time is 28925096059
+Compaction completed. Total compaction time is 29796193024
+Compaction completed. Total compaction time is 30676620267
+Compaction completed. Total compaction time is 31560596263
+Compaction completed. Total compaction time is 32444939689
+Compaction completed. Total compaction time is 33333378149
+Compaction completed. Total compaction time is 34223018099
+Compaction completed. Total compaction time is 35115918922
+Compaction completed. Total compaction time is 36002355628
+Compaction completed. Total compaction time is 36894545751
+Compaction completed. Total compaction time is 37791308567
+Total program time is 128175211353
+Total compaction time is xxxxxx 37791308567
+Total Wait Time is 0
+Compaction fraction is 29.4841%
+Compaction fracwithout wait_time is 29.4841%
+Compaction completed. Total compaction time is 38043872436
+Compaction completed. Total compaction time is 166290447
+Compaction completed. Total compaction time is 395419198
+Compaction completed. Total compaction time is 685966712
+Compaction completed. Total compaction time is 1037951192
+Compaction completed. Total compaction time is 1435228920
+Compaction completed. Total compaction time is 1881316281
+Compaction completed. Total compaction time is 2364137583
+Compaction completed. Total compaction time is 2900996086
+Compaction completed. Total compaction time is 3465595843
+Compaction completed. Total compaction time is 4061365638
+Compaction completed. Total compaction time is 4675061776
+Compaction completed. Total compaction time is 5325232059
+Compaction completed. Total compaction time is 6000896496
+Compaction completed. Total compaction time is 6697916522
+Compaction completed. Total compaction time is 7411246213
+Compaction completed. Total compaction time is 8152244841
+Compaction completed. Total compaction time is 8884932566
+Compaction completed. Total compaction time is 9647304252
+Compaction completed. Total compaction time is 10413339429
+Compaction completed. Total compaction time is 11199560395
+Compaction completed. Total compaction time is 12006513993
+Compaction completed. Total compaction time is 12810998476
+Compaction completed. Total compaction time is 13620870792
+Compaction completed. Total compaction time is 14442243389
+Compaction completed. Total compaction time is 15268958140
+Compaction completed. Total compaction time is 16097625162
+Compaction completed. Total compaction time is 16945454034
+Compaction completed. Total compaction time is 17784712743
+Compaction completed. Total compaction time is 18637367476
+Compaction completed. Total compaction time is 19484811090
+Compaction completed. Total compaction time is 20344595968
+Compaction completed. Total compaction time is 21198801386
+Compaction completed. Total compaction time is 22069144272
+Compaction completed. Total compaction time is 22938965026
+Compaction completed. Total compaction time is 23808745408
+Compaction completed. Total compaction time is 24677527476
+Compaction completed. Total compaction time is 25560505091
+Compaction completed. Total compaction time is 26439895369
+Compaction completed. Total compaction time is 27322429439
+Compaction completed. Total compaction time is 28194675823
+Compaction completed. Total compaction time is 29085399919
+Compaction completed. Total compaction time is 29970694137
+Compaction completed. Total compaction time is 30858876146
+Compaction completed. Total compaction time is 31749840926
+Compaction completed. Total compaction time is 32647565044
+Compaction completed. Total compaction time is 33538632260
+Compaction completed. Total compaction time is 34431682947
+Compaction completed. Total compaction time is 35335590778
+Compaction completed. Total compaction time is 36237986454
+Compaction completed. Total compaction time is 37139429977
+Compaction completed. Total compaction time is 38038551084
+Compaction completed. Total compaction time is 38941080484
+Compaction completed. Total compaction time is 39849813621
+Compaction completed. Total compaction time is 40750938435
+Compaction completed. Total compaction time is 41648636991
+Compaction completed. Total compaction time is 42548965079
+Total program time is 128094345947
+Total compaction time is xxxxxx 42548965079
+Total Wait Time is 0
+Compaction fraction is 33.2169%
+Compaction fracwithout wait_time is 33.2169%
+Compaction completed. Total compaction time is 43142392580
+Compaction completed. Total compaction time is 166014008
+Compaction completed. Total compaction time is 402043102
+Compaction completed. Total compaction time is 695976224
+Compaction completed. Total compaction time is 1049826219
+Compaction completed. Total compaction time is 1450236846
+Compaction completed. Total compaction time is 1888697474
+Compaction completed. Total compaction time is 2376368079
+Compaction completed. Total compaction time is 2903345348
+Compaction completed. Total compaction time is 3465195255
+Compaction completed. Total compaction time is 4060875897
+Compaction completed. Total compaction time is 4680954202
+Compaction completed. Total compaction time is 5338826550
+Compaction completed. Total compaction time is 6009265342
+Compaction completed. Total compaction time is 6701431713
+Compaction completed. Total compaction time is 7417492387
+Compaction completed. Total compaction time is 8154421300
+Compaction completed. Total compaction time is 8901923794
+Compaction completed. Total compaction time is 9658519548
+Compaction completed. Total compaction time is 10434928420
+Compaction completed. Total compaction time is 11215109903
+Compaction completed. Total compaction time is 12013092301
+Compaction completed. Total compaction time is 12821568142
+Compaction completed. Total compaction time is 13642343909
+Compaction completed. Total compaction time is 14470525295
+Compaction completed. Total compaction time is 15300729330
+Compaction completed. Total compaction time is 16130751291
+Compaction completed. Total compaction time is 16988204003
+Compaction completed. Total compaction time is 17833120821
+Compaction completed. Total compaction time is 18686474399
+Compaction completed. Total compaction time is 19542410227
+Compaction completed. Total compaction time is 20405941574
+Compaction completed. Total compaction time is 21264268879
+Compaction completed. Total compaction time is 22127385719
+Compaction completed. Total compaction time is 22997843838
+Compaction completed. Total compaction time is 23872227110
+Compaction completed. Total compaction time is 24741821359
+Compaction completed. Total compaction time is 25610197753
+Compaction completed. Total compaction time is 26484634424
+Compaction completed. Total compaction time is 27368375497
+Compaction completed. Total compaction time is 28238057991
+Compaction completed. Total compaction time is 29117996490
+Compaction completed. Total compaction time is 29990115722
+Compaction completed. Total compaction time is 30872199138
+Compaction completed. Total compaction time is 31760399611
+Compaction completed. Total compaction time is 32655518323
+Compaction completed. Total compaction time is 33551175722
+Compaction completed. Total compaction time is 34440199315
+Compaction completed. Total compaction time is 35343935922
+Compaction completed. Total compaction time is 36247721194
+Compaction completed. Total compaction time is 37153504657
+Compaction completed. Total compaction time is 38055091970
+Compaction completed. Total compaction time is 38953122206
+Compaction completed. Total compaction time is 39864323041
+Compaction completed. Total compaction time is 40768274911
+Compaction completed. Total compaction time is 41674037367
+Compaction completed. Total compaction time is 42572842155
+Compaction completed. Total compaction time is 43473831467
+Compaction completed. Total compaction time is 44380666490
+Compaction completed. Total compaction time is 45289229581
+Compaction completed. Total compaction time is 46187048618
+Compaction completed. Total compaction time is 47083387273
+Total program time is 127238255545
+Total compaction time is xxxxxx 47083387273
+Total Wait Time is 0
+Compaction fraction is 37.0041%
+Compaction fracwithout wait_time is 37.0041%
+Compaction completed. Total compaction time is 47738763868
+Compaction completed. Total compaction time is 169723650
+Compaction completed. Total compaction time is 402417562
+Compaction completed. Total compaction time is 696682632
+Compaction completed. Total compaction time is 1050794417
+Compaction completed. Total compaction time is 1455421027
+Compaction completed. Total compaction time is 1909310113
+Compaction completed. Total compaction time is 2401151002
+Compaction completed. Total compaction time is 2936943821
+Compaction completed. Total compaction time is 3504204545
+Compaction completed. Total compaction time is 4107086119
+Compaction completed. Total compaction time is 4729266033
+Compaction completed. Total compaction time is 5386947620
+Compaction completed. Total compaction time is 6066733262
+Compaction completed. Total compaction time is 6769058517
+Compaction completed. Total compaction time is 7492663338
+Compaction completed. Total compaction time is 8238397559
+Compaction completed. Total compaction time is 8993353056
+Compaction completed. Total compaction time is 9756675236
+Compaction completed. Total compaction time is 10537388641
+Compaction completed. Total compaction time is 11337783929
+Compaction completed. Total compaction time is 12148880302
+Compaction completed. Total compaction time is 12964488134
+Compaction completed. Total compaction time is 13790920030
+Compaction completed. Total compaction time is 14620094802
+Compaction completed. Total compaction time is 15459236187
+Compaction completed. Total compaction time is 16303358789
+Compaction completed. Total compaction time is 17168191871
+Compaction completed. Total compaction time is 18024339309
+Compaction completed. Total compaction time is 18879363877
+Compaction completed. Total compaction time is 19741438945
+Compaction completed. Total compaction time is 20609517421
+Compaction completed. Total compaction time is 21482778973
+Compaction completed. Total compaction time is 22359414197
+Compaction completed. Total compaction time is 23232534252
+Compaction completed. Total compaction time is 24118924775
+Compaction completed. Total compaction time is 25001296812
+Compaction completed. Total compaction time is 25886578985
+Compaction completed. Total compaction time is 26780052270
+Compaction completed. Total compaction time is 27660707603
+Compaction completed. Total compaction time is 28550016404
+Compaction completed. Total compaction time is 29516792161
+Compaction completed. Total compaction time is 30412772270
+Compaction completed. Total compaction time is 31304781133
+Compaction completed. Total compaction time is 32206000420
+Compaction completed. Total compaction time is 33108768015
+Compaction completed. Total compaction time is 34018802912
+Compaction completed. Total compaction time is 34926156692
+Compaction completed. Total compaction time is 35837680198
+Compaction completed. Total compaction time is 36746810885
+Compaction completed. Total compaction time is 37654881401
+Compaction completed. Total compaction time is 38561429350
+Compaction completed. Total compaction time is 39468632215
+Compaction completed. Total compaction time is 40384048454
+Compaction completed. Total compaction time is 41297095493
+Compaction completed. Total compaction time is 42255634648
+Compaction completed. Total compaction time is 43169012066
+Compaction completed. Total compaction time is 44085079383
+Compaction completed. Total compaction time is 45000905803
+Compaction completed. Total compaction time is 45922187221
+Compaction completed. Total compaction time is 46840049646
+Compaction completed. Total compaction time is 47753231808
+Compaction completed. Total compaction time is 48670670038
+Compaction completed. Total compaction time is 49585388270
+Compaction completed. Total compaction time is 50502513203
+Compaction completed. Total compaction time is 51418529626
+Compaction completed. Total compaction time is 52338721997
+Total program time is 126610745289
+Total compaction time is xxxxxx 52338721997
+Total Wait Time is 0
+Compaction fraction is 41.3383%
+Compaction fracwithout wait_time is 41.3383%
+Compaction completed. Total compaction time is 53147646990
+Compaction completed. Total compaction time is 163550839
+Compaction completed. Total compaction time is 393018273
+Compaction completed. Total compaction time is 680152385
+Compaction completed. Total compaction time is 1020066479
+Compaction completed. Total compaction time is 1409239880
+Compaction completed. Total compaction time is 1849947696
+Compaction completed. Total compaction time is 2321025106
+Compaction completed. Total compaction time is 2839209487
+Compaction completed. Total compaction time is 3389554832
+Compaction completed. Total compaction time is 3975320801
+Compaction completed. Total compaction time is 4579566160
+Compaction completed. Total compaction time is 5217022480
+Compaction completed. Total compaction time is 5874587043
+Compaction completed. Total compaction time is 6561040900
+Compaction completed. Total compaction time is 7260920989
+Compaction completed. Total compaction time is 7986105005
+Compaction completed. Total compaction time is 8728639405
+Compaction completed. Total compaction time is 9461918527
+Compaction completed. Total compaction time is 10223872631
+Compaction completed. Total compaction time is 11003671839
+Compaction completed. Total compaction time is 11787863808
+Compaction completed. Total compaction time is 12591502989
+Compaction completed. Total compaction time is 13404778836
+Compaction completed. Total compaction time is 14222320187
+Compaction completed. Total compaction time is 15038581043
+Compaction completed. Total compaction time is 15861201688
+Compaction completed. Total compaction time is 16697846328
+Compaction completed. Total compaction time is 17521046982
+Compaction completed. Total compaction time is 18357977352
+Compaction completed. Total compaction time is 19195190156
+Compaction completed. Total compaction time is 20040392659
+Compaction completed. Total compaction time is 20881075410
+Compaction completed. Total compaction time is 21726466924
+Compaction completed. Total compaction time is 22579798697
+Compaction completed. Total compaction time is 23440484634
+Compaction completed. Total compaction time is 24295889365
+Compaction completed. Total compaction time is 25157262570
+Compaction completed. Total compaction time is 26014993577
+Compaction completed. Total compaction time is 26880567405
+Compaction completed. Total compaction time is 27742565496
+Compaction completed. Total compaction time is 28611419274
+Compaction completed. Total compaction time is 29480189629
+Compaction completed. Total compaction time is 30346597436
+Compaction completed. Total compaction time is 31218496682
+Compaction completed. Total compaction time is 32095223571
+Compaction completed. Total compaction time is 32972136815
+Compaction completed. Total compaction time is 33849243934
+Compaction completed. Total compaction time is 34730662499
+Compaction completed. Total compaction time is 35613728210
+Compaction completed. Total compaction time is 36505759357
+Compaction completed. Total compaction time is 37402303649
+Compaction completed. Total compaction time is 38285407729
+Compaction completed. Total compaction time is 39170199754
+Compaction completed. Total compaction time is 40057508719
+Compaction completed. Total compaction time is 40945393296
+Compaction completed. Total compaction time is 41824941345
+Compaction completed. Total compaction time is 42714523723
+Compaction completed. Total compaction time is 43605592548
+Compaction completed. Total compaction time is 44495702716
+Compaction completed. Total compaction time is 45381120531
+Compaction completed. Total compaction time is 46270211218
+Compaction completed. Total compaction time is 47159924838
+Compaction completed. Total compaction time is 48060654321
+Compaction completed. Total compaction time is 48952461079
+Compaction completed. Total compaction time is 49844713170
+Compaction completed. Total compaction time is 50736133423
+Compaction completed. Total compaction time is 51635762619
+Compaction completed. Total compaction time is 52539296666
+Compaction completed. Total compaction time is 53443853622
+Compaction completed. Total compaction time is 54338178940
+Compaction completed. Total compaction time is 55255349268
+Compaction completed. Total compaction time is 56151509967
+Total program time is 125156906709
+Total compaction time is xxxxxx 56151509967
+Total Wait Time is 0
+Compaction fraction is 44.8649%
+Compaction fracwithout wait_time is 44.8649%
+Compaction completed. Total compaction time is 177405969
+Compaction completed. Total compaction time is 421722034
+Compaction completed. Total compaction time is 719564462
+Compaction completed. Total compaction time is 1095365782
+Compaction completed. Total compaction time is 1521249549
+Compaction completed. Total compaction time is 2000549585
+Compaction completed. Total compaction time is 2524656006
+Compaction completed. Total compaction time is 3097992125
+Compaction completed. Total compaction time is 3709773453
+Compaction completed. Total compaction time is 4354314725
+Compaction completed. Total compaction time is 5020505272
+Compaction completed. Total compaction time is 5723049023
+Compaction completed. Total compaction time is 6429941357
+Compaction completed. Total compaction time is 7129575548
+Compaction completed. Total compaction time is 7848193971
+Compaction completed. Total compaction time is 8582820929
+Compaction completed. Total compaction time is 9331545391
+Compaction completed. Total compaction time is 10085986450
+Compaction completed. Total compaction time is 10865352709
+Compaction completed. Total compaction time is 11666607486
+Compaction completed. Total compaction time is 12473596121
+Compaction completed. Total compaction time is 13289557513
+Compaction completed. Total compaction time is 14114393485
+Compaction completed. Total compaction time is 14945441493
+Compaction completed. Total compaction time is 15790771546
+Compaction completed. Total compaction time is 16634306745
+Compaction completed. Total compaction time is 17487792216
+Compaction completed. Total compaction time is 18343770846
+Compaction completed. Total compaction time is 19209834449
+Compaction completed. Total compaction time is 20075303529
+Compaction completed. Total compaction time is 20945896933
+Compaction completed. Total compaction time is 21820966003
+Compaction completed. Total compaction time is 22708109136
+Compaction completed. Total compaction time is 23586214336
+Compaction completed. Total compaction time is 24479949077
+Compaction completed. Total compaction time is 25366489554
+Compaction completed. Total compaction time is 26249693424
+Compaction completed. Total compaction time is 27144971818
+Compaction completed. Total compaction time is 28036262189
+Compaction completed. Total compaction time is 28927463654
+Compaction completed. Total compaction time is 29826566387
+Compaction completed. Total compaction time is 30717935458
+Compaction completed. Total compaction time is 31625296311
+Compaction completed. Total compaction time is 32530895028
+Compaction completed. Total compaction time is 33441738049
+Compaction completed. Total compaction time is 34357379737
+Compaction completed. Total compaction time is 35269088522
+Compaction completed. Total compaction time is 36187204643
+Compaction completed. Total compaction time is 37097560563
+Compaction completed. Total compaction time is 38018811175
+Compaction completed. Total compaction time is 38941171294
+Compaction completed. Total compaction time is 39861935057
+Compaction completed. Total compaction time is 40773054268
+Compaction completed. Total compaction time is 41692647905
+Compaction completed. Total compaction time is 42606007390
+Compaction completed. Total compaction time is 43516729144
+Compaction completed. Total compaction time is 44429588380
+Compaction completed. Total compaction time is 45389974528
+Compaction completed. Total compaction time is 46312247599
+Compaction completed. Total compaction time is 47291376793
+Compaction completed. Total compaction time is 48281775039
+Compaction completed. Total compaction time is 49276247599
+Compaction completed. Total compaction time is 50259143898
+Compaction completed. Total compaction time is 51241219196
+Compaction completed. Total compaction time is 52227139448
+Compaction completed. Total compaction time is 53211825942
+Compaction completed. Total compaction time is 54203071195
+Compaction completed. Total compaction time is 55184927954
+Compaction completed. Total compaction time is 56177185972
+Compaction completed. Total compaction time is 57205528053
+Compaction completed. Total compaction time is 58200633147
+Compaction completed. Total compaction time is 59197543205
+Compaction completed. Total compaction time is 60248933551
+Compaction completed. Total compaction time is 61234927638
+Compaction completed. Total compaction time is 62222120033
+Compaction completed. Total compaction time is 63213359422
+Compaction completed. Total compaction time is 64217061760
+Total program time is 124599022555
+Total compaction time is xxxxxx 64217061760
+Total Wait Time is 0
+Compaction fraction is 51.539%
+Compaction fracwithout wait_time is 51.539%
+Compaction completed. Total compaction time is 168666463
+Compaction completed. Total compaction time is 401532156
+Compaction completed. Total compaction time is 694798639
+Compaction completed. Total compaction time is 1046250804
+Compaction completed. Total compaction time is 1444482351
+Compaction completed. Total compaction time is 1890778557
+Compaction completed. Total compaction time is 2387289870
+Compaction completed. Total compaction time is 2923333706
+Compaction completed. Total compaction time is 3483837605
+Compaction completed. Total compaction time is 4068771405
+Compaction completed. Total compaction time is 4684009658
+Compaction completed. Total compaction time is 5330579621
+Compaction completed. Total compaction time is 5998963860
+Compaction completed. Total compaction time is 6688134024
+Compaction completed. Total compaction time is 7397747893
+Compaction completed. Total compaction time is 8125403940
+Compaction completed. Total compaction time is 8867301086
+Compaction completed. Total compaction time is 9618249095
+Compaction completed. Total compaction time is 10391207104
+Compaction completed. Total compaction time is 11176462100
+Compaction completed. Total compaction time is 11971492099
+Compaction completed. Total compaction time is 12775573003
+Compaction completed. Total compaction time is 13590126866
+Compaction completed. Total compaction time is 14405113737
+Compaction completed. Total compaction time is 15228414898
+Compaction completed. Total compaction time is 16057333661
+Compaction completed. Total compaction time is 16923352793
+Compaction completed. Total compaction time is 17763884741
+Compaction completed. Total compaction time is 18616031442
+Compaction completed. Total compaction time is 19463755175
+Compaction completed. Total compaction time is 20317958327
+Compaction completed. Total compaction time is 21177750424
+Compaction completed. Total compaction time is 22040707195
+Compaction completed. Total compaction time is 22906097506
+Compaction completed. Total compaction time is 23781696039
+Compaction completed. Total compaction time is 24651560831
+Compaction completed. Total compaction time is 25533073718
+Compaction completed. Total compaction time is 26407296771
+Compaction completed. Total compaction time is 27279446745
+Compaction completed. Total compaction time is 28155769329
+Compaction completed. Total compaction time is 29032770761
+Compaction completed. Total compaction time is 29914619300
+Compaction completed. Total compaction time is 30796869530
+Compaction completed. Total compaction time is 31689555921
+Compaction completed. Total compaction time is 32578730860
+Compaction completed. Total compaction time is 33467519731
+Compaction completed. Total compaction time is 34363616940
+Compaction completed. Total compaction time is 35263482402
+Compaction completed. Total compaction time is 36151133091
+Compaction completed. Total compaction time is 37043528969
+Compaction completed. Total compaction time is 37941636113
+Compaction completed. Total compaction time is 38834655950
+Compaction completed. Total compaction time is 39729100913
+Compaction completed. Total compaction time is 40624357542
+Compaction completed. Total compaction time is 41528782561
+Compaction completed. Total compaction time is 42426286682
+Compaction completed. Total compaction time is 43325407627
+Compaction completed. Total compaction time is 44224924681
+Compaction completed. Total compaction time is 45119837187
+Compaction completed. Total compaction time is 46018861645
+Compaction completed. Total compaction time is 46913886911
+Compaction completed. Total compaction time is 47815521419
+Compaction completed. Total compaction time is 48715299185
+Compaction completed. Total compaction time is 49612895233
+Compaction completed. Total compaction time is 50528939790
+Compaction completed. Total compaction time is 51425707903
+Compaction completed. Total compaction time is 52333586918
+Compaction completed. Total compaction time is 53230679111
+Compaction completed. Total compaction time is 54156110910
+Compaction completed. Total compaction time is 55057078547
+Compaction completed. Total compaction time is 55957488998
+Compaction completed. Total compaction time is 56856234506
+Compaction completed. Total compaction time is 57755251223
+Compaction completed. Total compaction time is 58656906140
+Compaction completed. Total compaction time is 59557386353
+Compaction completed. Total compaction time is 60458947072
+Compaction completed. Total compaction time is 61359404486
+Compaction completed. Total compaction time is 62263610275
+Compaction completed. Total compaction time is 63161932460
+Compaction completed. Total compaction time is 64058376703
+Compaction completed. Total compaction time is 64959848816
+Compaction completed. Total compaction time is 65859615706
+Total program time is 119976883265
+Total compaction time is xxxxxx 65859615706
+Total Wait Time is 0
+Compaction fraction is 54.8936%
+Compaction fracwithout wait_time is 54.8936%
